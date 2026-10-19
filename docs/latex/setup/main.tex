@@ -1,0 +1,149 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[margin=0.75in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp,lmodern,microtype,xcolor,enumitem,listings,fancyhdr,hyperref}
+\definecolor{accent}{HTML}{184B59}
+\definecolor{light}{HTML}{F1F5F6}
+\hypersetup{colorlinks=true,urlcolor=accent,pdftitle={Quick Python and VS Code Setup}}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}
+\setlist{leftmargin=*,itemsep=4pt}
+\lstset{basicstyle=\ttfamily\small,backgroundcolor=\color{light},frame=single,rulecolor=\color{light},framesep=6pt,breaklines=true,columns=fullflexible,keepspaces=true,showstringspaces=false,upquote=true}
+\pagestyle{fancy}\fancyhf{}
+\fancyhead[L]{\small Student software setup}
+\fancyfoot[R]{\small\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\setlength{\headheight}{14pt}
+\newcommand{\heading}[2]{{\small\color{accent}\textbf{#1}}\par{\LARGE\bfseries #2}\par}
+\begin{document}
+\sloppy
+\heading{WINDOWS}{Quick Python and VS Code setup}
+Follow this page on Windows, or page 2 on Mac. Then finish on page 3.
+Allow about 20--30 minutes, plus download time.
+
+\section*{1 \quad Install Python from the Microsoft Store}
+Open the \textbf{Microsoft Store}. Search for \textbf{Python Install Manager}
+and install the one published by the \textbf{Python Software Foundation}.
+Open \textbf{Windows PowerShell} from the Start menu. Copy and paste this
+block, press Enter, and wait for it to finish:
+\begin{lstlisting}
+pymanager install 3.13
+py -3.13 --version
+\end{lstlisting}
+You should see \texttt{Python 3.13.x}. Close PowerShell when finished.
+
+\section*{2 \quad Install VS Code}
+Download and install \href{https://code.visualstudio.com/Download}{Visual Studio Code}.
+Open it, click \textbf{Extensions} in the left sidebar, and install these two
+extensions by \textbf{Microsoft}: \textbf{Python} and \textbf{Jupyter}.
+
+\section*{3 \quad Create a project folder}
+Create a folder named \texttt{RTS-Research} in Documents.
+In VS Code, choose \textbf{File > Open Folder} and open that folder.
+Choose \textbf{Terminal > New Terminal}. Select \textbf{PowerShell}
+from the terminal dropdown if needed.
+
+\section*{4 \quad Install all libraries at once}
+Copy and paste this whole block into that PowerShell terminal. Press Enter
+if the last line is waiting. Leave it open and wait for installation to finish:
+\begin{lstlisting}
+py -3.13 -m venv .venv
+.\.venv\Scripts\python.exe -m pip install --upgrade pip
+.\.venv\Scripts\python.exe -m pip install numpy pandas scipy `
+  matplotlib seaborn scikit-learn openpyxl ipykernel notebook
+.\.venv\Scripts\python.exe -m pip check
+\end{lstlisting}
+\textbf{Done when:} the last line says \texttt{No broken requirements found}.
+This installs tools for data cleaning, Excel, plotting, ML, and Jupyter.
+The \texttt{.venv} folder keeps your project libraries together; no activation is needed.
+
+\textbf{Next: skip the Mac page and go to page 3.}
+
+\newpage
+\heading{MAC}{Quick Python and VS Code setup}
+Windows users: skip this page.
+
+\section*{1 \quad Install Python}
+Open the \href{https://www.python.org/downloads/release/python-31316/}{Python 3.13.16 download page}.
+Under \textbf{Files}, download the \textbf{macOS installer}.
+Open the downloaded \texttt{.pkg} file and follow the installation steps.
+
+In Finder, open \textbf{Applications > Python 3.13} and double-click
+\textbf{Install Certificates.command}. Let it finish.
+
+\section*{2 \quad Install VS Code}
+Download \href{https://code.visualstudio.com/Download}{Visual Studio Code for Mac}.
+Unzip it if needed, drag the app into \textbf{Applications}, and open it.
+Click \textbf{Extensions} in the sidebar and install these two extensions
+by \textbf{Microsoft}: \textbf{Python} and \textbf{Jupyter}.
+
+\section*{3 \quad Create a project folder}
+Create a folder named \texttt{RTS-Research} in Documents.
+In VS Code, choose \textbf{File > Open Folder} and open that folder.
+Then choose \textbf{Terminal > New Terminal}.
+
+\section*{4 \quad Install all libraries at once}
+Copy and paste this whole block into the terminal. Press Enter if the last
+line is waiting. Leave it open and wait for installation to finish:
+\begin{lstlisting}
+python3.13 -m venv .venv
+./.venv/bin/python -m pip install --upgrade pip
+./.venv/bin/python -m pip install numpy pandas scipy \
+  matplotlib seaborn scikit-learn openpyxl ipykernel notebook
+./.venv/bin/python -m pip check
+\end{lstlisting}
+\textbf{Done when:} the last line says \texttt{No broken requirements found}.
+This installs tools for data cleaning, Excel, plotting, ML, and Jupyter.
+The \texttt{.venv} folder keeps your project libraries together; no activation is needed.
+
+\textbf{Next: go to page 3.}
+
+\newpage
+\heading{EVERYONE}{Open a notebook and check your setup}
+\section*{5 \quad Create your first notebook}
+\begin{enumerate}
+\item Open the Command Palette with \textbf{Ctrl+Shift+P} (Windows) or
+\textbf{Cmd+Shift+P} (Mac). Search for \textbf{Create: New Jupyter Notebook}.
+\item Save it as \texttt{setup\_check.ipynb} in \texttt{RTS-Research}.
+\item Click \textbf{Select Kernel} at the top right, choose
+\textbf{Python Environments}, and select the project's \texttt{.venv}.
+\item Paste this into a \textbf{code cell} and press \textbf{Shift+Enter}:
+\end{enumerate}
+\begin{lstlisting}[language=Python]
+import sys
+import numpy as np
+import pandas as pd
+import scipy, seaborn, sklearn, openpyxl
+import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
+
+print("Python:", sys.version.split()[0])
+print("Environment:", sys.executable)
+model = LinearRegression().fit([[1], [2], [3]], [2, 4, 6])
+print("Test prediction:", round(model.predict([[5]])[0], 1))
+plt.plot([1, 2, 3], [2, 4, 6], marker="o")
+plt.show()
+\end{lstlisting}
+\textbf{Done when:} you see \texttt{Test prediction: 10.0}, a line plot, and an
+environment path containing \texttt{.venv}. Save your notebook. You are ready!
+
+\section*{If something goes wrong}
+\textbf{Windows cannot find pymanager or py:} Close and reopen VS Code and
+PowerShell after installing Python Install Manager. If \texttt{py} still
+points to an older installation, ask your leader to check the Python launcher.
+
+\textbf{Cannot find .venv:} Open your \texttt{RTS-Research} folder in VS Code,
+open a new terminal, and rerun step 4. If a command fails, fix that error
+before continuing.
+
+\textbf{Notebook says a module is missing:} Select the project's
+\texttt{.venv} kernel again. If needed, rerun the library installation line.
+
+\textbf{Still stuck after 10 minutes?} Send your group leader a screenshot
+of the full error and the command you ran.
+
+{\footnotesize Official help:
+\href{https://docs.python.org/3/using/windows.html}{Python on Windows}
+\quad|\quad \href{https://code.visualstudio.com/docs/datascience/jupyter-notebooks}{Jupyter in VS Code}.
+Next time, open the same folder and notebook; you do not need to reinstall.}
+\end{document}
