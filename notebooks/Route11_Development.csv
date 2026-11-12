@@ -1,0 +1,782 @@
+source_row,bus_id,service_date,split,stop_id,timepoint,direction_id,trip_variant,trip_id,scheduled_arrival,actual_arrival,delay_minutes,scheduled_hour,weekday,linkage_status,iqr_outlier_flag
+512,2111,2023-03-01,train,1235,NE Walmart Supercenter,1,main_loop,1011001,2023-03-01 05:40:00,2023-03-01 05:40:10,0.16666666666666666,5,Wednesday,provisional: terminal-dependent support,False
+535,2111,2023-03-01,train,1234,NE Walmart Supercenter,0,main_loop,1011002,2023-03-01 06:07:00,2023-03-01 06:11:26,4.433333333333334,6,Wednesday,provisional: terminal-dependent support,False
+574,2111,2023-03-01,train,1235,NE Walmart Supercenter,1,main_loop,1011003,2023-03-01 06:40:00,2023-03-01 06:41:24,1.4,6,Wednesday,provisional: terminal-dependent support,False
+597,2111,2023-03-01,train,1234,NE Walmart Supercenter,0,main_loop,1011004,2023-03-01 07:07:00,2023-03-01 07:11:02,4.033333333333333,7,Wednesday,provisional: terminal-dependent support,False
+636,2111,2023-03-01,train,1235,NE Walmart Supercenter,1,main_loop,1011005,2023-03-01 07:40:00,2023-03-01 07:42:33,2.55,7,Wednesday,provisional: terminal-dependent support,False
+659,2111,2023-03-01,train,1234,NE Walmart Supercenter,0,main_loop,1011006,2023-03-01 08:07:00,2023-03-01 08:11:07,4.116666666666666,8,Wednesday,provisional: terminal-dependent support,False
+698,2111,2023-03-01,train,1235,NE Walmart Supercenter,1,main_loop,1011007,2023-03-01 08:40:00,2023-03-01 08:41:39,1.65,8,Wednesday,provisional: terminal-dependent support,False
+721,2111,2023-03-01,train,1234,NE Walmart Supercenter,0,main_loop,1011008,2023-03-01 09:07:00,2023-03-01 09:11:00,4.0,9,Wednesday,provisional: terminal-dependent support,False
+760,2111,2023-03-01,train,1235,NE Walmart Supercenter,1,main_loop,1011009,2023-03-01 09:40:00,2023-03-01 09:40:33,0.55,9,Wednesday,provisional: terminal-dependent support,False
+783,2111,2023-03-01,train,1234,NE Walmart Supercenter,0,main_loop,1011012,2023-03-01 10:07:00,2023-03-01 10:08:28,1.4666666666666666,10,Wednesday,provisional: terminal-dependent support,False
+822,2111,2023-03-01,train,1235,NE Walmart Supercenter,1,main_loop,1011013,2023-03-01 10:40:00,2023-03-01 10:38:48,-1.2,10,Wednesday,provisional: terminal-dependent support,False
+845,2111,2023-03-01,train,1234,NE Walmart Supercenter,0,main_loop,1011016,2023-03-01 11:07:00,2023-03-01 11:12:52,5.866666666666666,11,Wednesday,provisional: terminal-dependent support,False
+884,2111,2023-03-01,train,1235,NE Walmart Supercenter,1,main_loop,1011017,2023-03-01 11:40:00,2023-03-01 11:44:45,4.75,11,Wednesday,provisional: terminal-dependent support,False
+907,2111,2023-03-01,train,1234,NE Walmart Supercenter,0,main_loop,1011020,2023-03-01 12:07:00,2023-03-01 12:09:24,2.4,12,Wednesday,provisional: terminal-dependent support,False
+946,2111,2023-03-01,train,1235,NE Walmart Supercenter,1,main_loop,1011021,2023-03-01 12:40:00,2023-03-01 12:38:58,-1.0333333333333334,12,Wednesday,provisional: terminal-dependent support,False
+969,2111,2023-03-01,train,1234,NE Walmart Supercenter,0,main_loop,1011024,2023-03-01 13:07:00,2023-03-01 13:11:02,4.033333333333333,13,Wednesday,provisional: terminal-dependent support,False
+1008,2111,2023-03-01,train,1235,NE Walmart Supercenter,1,main_loop,1011025,2023-03-01 13:40:00,2023-03-01 13:40:13,0.21666666666666667,13,Wednesday,provisional: terminal-dependent support,False
+1031,2111,2023-03-01,train,1234,NE Walmart Supercenter,0,main_loop,1011028,2023-03-01 14:07:00,2023-03-01 14:10:59,3.9833333333333334,14,Wednesday,provisional: terminal-dependent support,False
+1070,2111,2023-03-01,train,1235,NE Walmart Supercenter,1,main_loop,1011029,2023-03-01 14:40:00,2023-03-01 14:39:43,-0.2833333333333333,14,Wednesday,provisional: terminal-dependent support,False
+1093,2111,2023-03-01,train,1234,NE Walmart Supercenter,0,main_loop,1011032,2023-03-01 15:07:00,2023-03-01 15:10:15,3.25,15,Wednesday,provisional: terminal-dependent support,False
+1132,2111,2023-03-01,train,1235,NE Walmart Supercenter,1,main_loop,1011033,2023-03-01 15:40:00,2023-03-01 15:40:20,0.3333333333333333,15,Wednesday,provisional: terminal-dependent support,False
+1155,2111,2023-03-01,train,1234,NE Walmart Supercenter,0,main_loop,1011036,2023-03-01 16:07:00,2023-03-01 16:10:22,3.3666666666666667,16,Wednesday,provisional: terminal-dependent support,False
+1194,2111,2023-03-01,train,1235,NE Walmart Supercenter,1,main_loop,1011037,2023-03-01 16:40:00,2023-03-01 16:42:26,2.433333333333333,16,Wednesday,provisional: terminal-dependent support,False
+1217,2111,2023-03-01,train,1234,NE Walmart Supercenter,0,main_loop,1011040,2023-03-01 17:07:00,2023-03-01 17:11:01,4.016666666666667,17,Wednesday,provisional: terminal-dependent support,False
+1256,2111,2023-03-01,train,1235,NE Walmart Supercenter,1,main_loop,1011041,2023-03-01 17:40:00,2023-03-01 17:40:50,0.8333333333333334,17,Wednesday,provisional: terminal-dependent support,False
+1279,2111,2023-03-01,train,1234,NE Walmart Supercenter,0,main_loop,1011042,2023-03-01 18:07:00,2023-03-01 18:08:21,1.35,18,Wednesday,provisional: terminal-dependent support,False
+1311,2111,2023-03-01,train,1235,NE Walmart Supercenter,1,main_loop,1011043,2023-03-01 18:40:00,2023-03-01 18:38:31,-1.4833333333333334,18,Wednesday,provisional: terminal-dependent support,False
+1334,2111,2023-03-01,train,1234,NE Walmart Supercenter,0,main_loop,1011044,2023-03-01 19:07:00,2023-03-01 19:16:45,9.75,19,Wednesday,provisional: terminal-dependent support,True
+1366,2111,2023-03-01,train,1235,NE Walmart Supercenter,1,main_loop,1011045,2023-03-01 19:40:00,2023-03-01 19:40:50,0.8333333333333334,19,Wednesday,provisional: terminal-dependent support,False
+13,710,2023-03-01,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011010,2023-03-01 09:37:00,2023-03-01 09:38:27,1.45,9,Wednesday,provisional: unflagged non-terminal anchor support,False
+22,710,2023-03-01,train,107,Health Department,0,health_dept_branch,1011010,2023-03-01 09:45:00,2023-03-01 09:43:08,-1.8666666666666667,9,Wednesday,provisional: unflagged non-terminal anchor support,False
+44,710,2023-03-01,train,107,Health Department,1,health_dept_branch,1011011,2023-03-01 10:05:00,2023-03-01 10:05:55,0.9166666666666666,10,Wednesday,provisional: unflagged non-terminal anchor support,False
+52,710,2023-03-01,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011011,2023-03-01 10:10:00,2023-03-01 10:10:24,0.4,10,Wednesday,provisional: unflagged non-terminal anchor support,False
+75,710,2023-03-01,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011014,2023-03-01 10:37:00,2023-03-01 10:41:09,4.15,10,Wednesday,provisional: unflagged non-terminal anchor support,False
+84,710,2023-03-01,train,107,Health Department,0,health_dept_branch,1011014,2023-03-01 10:45:00,2023-03-01 10:46:40,1.6666666666666667,10,Wednesday,provisional: unflagged non-terminal anchor support,False
+106,710,2023-03-01,train,107,Health Department,1,health_dept_branch,1011015,2023-03-01 11:05:00,2023-03-01 11:07:00,2.0,11,Wednesday,provisional: unflagged non-terminal anchor support,False
+114,710,2023-03-01,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011015,2023-03-01 11:10:00,2023-03-01 11:14:53,4.883333333333334,11,Wednesday,provisional: unflagged non-terminal anchor support,False
+137,710,2023-03-01,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011018,2023-03-01 11:37:00,2023-03-01 11:39:11,2.183333333333333,11,Wednesday,provisional: unflagged non-terminal anchor support,False
+146,710,2023-03-01,train,107,Health Department,0,health_dept_branch,1011018,2023-03-01 11:45:00,2023-03-01 11:45:23,0.38333333333333336,11,Wednesday,provisional: unflagged non-terminal anchor support,False
+168,710,2023-03-01,train,107,Health Department,1,health_dept_branch,1011019,2023-03-01 12:05:00,2023-03-01 12:06:09,1.15,12,Wednesday,provisional: unflagged non-terminal anchor support,False
+176,710,2023-03-01,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011019,2023-03-01 12:10:00,2023-03-01 12:11:28,1.4666666666666666,12,Wednesday,provisional: unflagged non-terminal anchor support,False
+199,710,2023-03-01,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011022,2023-03-01 12:37:00,2023-03-01 12:39:07,2.1166666666666667,12,Wednesday,provisional: unflagged non-terminal anchor support,False
+208,710,2023-03-01,train,107,Health Department,0,health_dept_branch,1011022,2023-03-01 12:45:00,2023-03-01 12:44:38,-0.36666666666666664,12,Wednesday,provisional: unflagged non-terminal anchor support,False
+230,710,2023-03-01,train,107,Health Department,1,health_dept_branch,1011023,2023-03-01 13:05:00,2023-03-01 13:07:30,2.5,13,Wednesday,provisional: unflagged non-terminal anchor support,False
+238,710,2023-03-01,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011023,2023-03-01 13:10:00,2023-03-01 13:13:43,3.716666666666667,13,Wednesday,provisional: unflagged non-terminal anchor support,False
+261,710,2023-03-01,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011026,2023-03-01 13:37:00,2023-03-01 13:39:18,2.3,13,Wednesday,provisional: unflagged non-terminal anchor support,False
+270,710,2023-03-01,train,107,Health Department,0,health_dept_branch,1011026,2023-03-01 13:45:00,2023-03-01 13:48:50,3.8333333333333335,13,Wednesday,provisional: unflagged non-terminal anchor support,False
+292,710,2023-03-01,train,107,Health Department,1,health_dept_branch,1011027,2023-03-01 14:05:00,2023-03-01 14:06:19,1.3166666666666667,14,Wednesday,provisional: unflagged non-terminal anchor support,False
+300,710,2023-03-01,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011027,2023-03-01 14:10:00,2023-03-01 14:11:52,1.8666666666666667,14,Wednesday,provisional: unflagged non-terminal anchor support,False
+323,710,2023-03-01,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011030,2023-03-01 14:37:00,2023-03-01 14:40:15,3.25,14,Wednesday,provisional: unflagged non-terminal anchor support,False
+332,710,2023-03-01,train,107,Health Department,0,health_dept_branch,1011030,2023-03-01 14:45:00,2023-03-01 14:45:04,0.06666666666666667,14,Wednesday,provisional: unflagged non-terminal anchor support,False
+354,710,2023-03-01,train,107,Health Department,1,health_dept_branch,1011031,2023-03-01 15:05:00,2023-03-01 15:07:17,2.283333333333333,15,Wednesday,provisional: unflagged non-terminal anchor support,False
+362,710,2023-03-01,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011031,2023-03-01 15:10:00,2023-03-01 15:13:07,3.1166666666666667,15,Wednesday,provisional: unflagged non-terminal anchor support,False
+385,710,2023-03-01,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011034,2023-03-01 15:37:00,2023-03-01 15:40:12,3.2,15,Wednesday,provisional: unflagged non-terminal anchor support,False
+394,710,2023-03-01,train,107,Health Department,0,health_dept_branch,1011034,2023-03-01 15:45:00,2023-03-01 15:46:43,1.7166666666666666,15,Wednesday,provisional: unflagged non-terminal anchor support,False
+416,710,2023-03-01,train,107,Health Department,1,health_dept_branch,1011035,2023-03-01 16:05:00,2023-03-01 16:07:01,2.0166666666666666,16,Wednesday,provisional: unflagged non-terminal anchor support,False
+424,710,2023-03-01,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011035,2023-03-01 16:10:00,2023-03-01 16:12:33,2.55,16,Wednesday,provisional: unflagged non-terminal anchor support,False
+447,710,2023-03-01,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011038,2023-03-01 16:37:00,2023-03-01 16:39:58,2.966666666666667,16,Wednesday,provisional: unflagged non-terminal anchor support,False
+456,710,2023-03-01,train,107,Health Department,0,health_dept_branch,1011038,2023-03-01 16:45:00,2023-03-01 16:45:44,0.7333333333333333,16,Wednesday,provisional: unflagged non-terminal anchor support,False
+483,710,2023-03-01,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011039,2023-03-01 17:10:00,2023-03-01 17:08:31,-1.4833333333333334,17,Wednesday,provisional: terminal-dependent support,False
+1891,2111,2023-03-02,train,1235,NE Walmart Supercenter,1,main_loop,1011001,2023-03-02 05:40:00,2023-03-02 05:40:19,0.31666666666666665,5,Thursday,provisional: terminal-dependent support,False
+1914,2111,2023-03-02,train,1234,NE Walmart Supercenter,0,main_loop,1011002,2023-03-02 06:07:00,2023-03-02 06:11:04,4.066666666666666,6,Thursday,provisional: terminal-dependent support,False
+1953,2111,2023-03-02,train,1235,NE Walmart Supercenter,1,main_loop,1011003,2023-03-02 06:40:00,2023-03-02 06:39:53,-0.11666666666666667,6,Thursday,provisional: terminal-dependent support,False
+1976,2111,2023-03-02,train,1234,NE Walmart Supercenter,0,main_loop,1011004,2023-03-02 07:07:00,2023-03-02 07:11:02,4.033333333333333,7,Thursday,provisional: terminal-dependent support,False
+2015,2111,2023-03-02,train,1235,NE Walmart Supercenter,1,main_loop,1011005,2023-03-02 07:40:00,2023-03-02 07:42:43,2.716666666666667,7,Thursday,provisional: terminal-dependent support,False
+2038,2111,2023-03-02,train,1234,NE Walmart Supercenter,0,main_loop,1011006,2023-03-02 08:07:00,2023-03-02 08:11:07,4.116666666666666,8,Thursday,provisional: terminal-dependent support,False
+2075,2111,2023-03-02,train,1235,NE Walmart Supercenter,1,main_loop,1011007,2023-03-02 08:40:00,2023-03-02 08:40:47,0.7833333333333333,8,Thursday,provisional: terminal-dependent support,False
+2098,2111,2023-03-02,train,1234,NE Walmart Supercenter,0,main_loop,1011008,2023-03-02 09:07:00,2023-03-02 09:12:38,5.633333333333334,9,Thursday,provisional: terminal-dependent support,False
+2137,2111,2023-03-02,train,1235,NE Walmart Supercenter,1,main_loop,1011009,2023-03-02 09:40:00,2023-03-02 09:42:31,2.5166666666666666,9,Thursday,provisional: terminal-dependent support,False
+2160,2111,2023-03-02,train,1234,NE Walmart Supercenter,0,main_loop,1011012,2023-03-02 10:07:00,2023-03-02 10:11:00,4.0,10,Thursday,provisional: terminal-dependent support,False
+2199,2111,2023-03-02,train,1235,NE Walmart Supercenter,1,main_loop,1011013,2023-03-02 10:40:00,2023-03-02 10:40:18,0.3,10,Thursday,provisional: terminal-dependent support,False
+2219,2111,2023-03-02,train,1234,NE Walmart Supercenter,0,main_loop,1011016,2023-03-02 11:07:00,2023-03-02 11:09:51,2.85,11,Thursday,provisional: terminal-dependent support,False
+2255,2111,2023-03-02,train,1235,NE Walmart Supercenter,1,main_loop,1011017,2023-03-02 11:40:00,2023-03-02 11:38:37,-1.3833333333333333,11,Thursday,provisional: terminal-dependent support,False
+2278,2111,2023-03-02,train,1234,NE Walmart Supercenter,0,main_loop,1011020,2023-03-02 12:07:00,2023-03-02 12:12:46,5.766666666666667,12,Thursday,provisional: terminal-dependent support,False
+2317,2111,2023-03-02,train,1235,NE Walmart Supercenter,1,main_loop,1011021,2023-03-02 12:40:00,2023-03-02 12:41:50,1.8333333333333333,12,Thursday,provisional: terminal-dependent support,False
+2340,2111,2023-03-02,train,1234,NE Walmart Supercenter,0,main_loop,1011024,2023-03-02 13:07:00,2023-03-02 13:09:23,2.3833333333333333,13,Thursday,provisional: terminal-dependent support,False
+2379,2111,2023-03-02,train,1235,NE Walmart Supercenter,1,main_loop,1011025,2023-03-02 13:40:00,2023-03-02 13:39:36,-0.4,13,Thursday,provisional: terminal-dependent support,False
+2402,2111,2023-03-02,train,1234,NE Walmart Supercenter,0,main_loop,1011028,2023-03-02 14:07:00,2023-03-02 14:09:37,2.6166666666666667,14,Thursday,provisional: terminal-dependent support,False
+2441,2111,2023-03-02,train,1235,NE Walmart Supercenter,1,main_loop,1011029,2023-03-02 14:40:00,2023-03-02 14:42:00,2.0,14,Thursday,provisional: terminal-dependent support,False
+2464,2111,2023-03-02,train,1234,NE Walmart Supercenter,0,main_loop,1011032,2023-03-02 15:07:00,2023-03-02 15:13:03,6.05,15,Thursday,provisional: terminal-dependent support,False
+2503,2111,2023-03-02,train,1235,NE Walmart Supercenter,1,main_loop,1011033,2023-03-02 15:40:00,2023-03-02 15:43:15,3.25,15,Thursday,provisional: terminal-dependent support,False
+2565,2111,2023-03-02,train,1235,NE Walmart Supercenter,1,main_loop,1011037,2023-03-02 16:40:00,2023-03-02 16:41:53,1.8833333333333333,16,Thursday,provisional: terminal-dependent support,False
+2588,2111,2023-03-02,train,1234,NE Walmart Supercenter,0,main_loop,1011040,2023-03-02 17:07:00,2023-03-02 17:10:39,3.65,17,Thursday,provisional: terminal-dependent support,False
+2627,2111,2023-03-02,train,1235,NE Walmart Supercenter,1,main_loop,1011041,2023-03-02 17:40:00,2023-03-02 17:42:06,2.1,17,Thursday,provisional: terminal-dependent support,False
+2650,2111,2023-03-02,train,1234,NE Walmart Supercenter,0,main_loop,1011042,2023-03-02 18:07:00,2023-03-02 18:08:21,1.35,18,Thursday,provisional: terminal-dependent support,False
+2682,2111,2023-03-02,train,1235,NE Walmart Supercenter,1,main_loop,1011043,2023-03-02 18:40:00,2023-03-02 18:38:05,-1.9166666666666667,18,Thursday,provisional: terminal-dependent support,False
+2705,2111,2023-03-02,train,1234,NE Walmart Supercenter,0,main_loop,1011044,2023-03-02 19:07:00,2023-03-02 19:10:07,3.1166666666666667,19,Thursday,provisional: terminal-dependent support,False
+2737,2111,2023-03-02,train,1235,NE Walmart Supercenter,1,main_loop,1011045,2023-03-02 19:40:00,2023-03-02 19:37:17,-2.716666666666667,19,Thursday,provisional: terminal-dependent support,False
+1389,710,2023-03-02,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011010,2023-03-02 09:37:00,2023-03-02 09:41:17,4.283333333333333,9,Thursday,provisional: unflagged non-terminal anchor support,False
+1398,710,2023-03-02,train,107,Health Department,0,health_dept_branch,1011010,2023-03-02 09:45:00,2023-03-02 09:51:03,6.05,9,Thursday,provisional: unflagged non-terminal anchor support,False
+1420,710,2023-03-02,train,107,Health Department,1,health_dept_branch,1011011,2023-03-02 10:05:00,2023-03-02 10:07:48,2.8,10,Thursday,provisional: unflagged non-terminal anchor support,False
+1428,710,2023-03-02,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011011,2023-03-02 10:10:00,2023-03-02 10:13:23,3.3833333333333333,10,Thursday,provisional: unflagged non-terminal anchor support,False
+1451,710,2023-03-02,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011014,2023-03-02 10:37:00,2023-03-02 10:38:12,1.2,10,Thursday,provisional: unflagged non-terminal anchor support,False
+1460,710,2023-03-02,train,107,Health Department,0,health_dept_branch,1011014,2023-03-02 10:45:00,2023-03-02 10:44:53,-0.11666666666666667,10,Thursday,provisional: unflagged non-terminal anchor support,False
+1482,710,2023-03-02,train,107,Health Department,1,health_dept_branch,1011015,2023-03-02 11:05:00,2023-03-02 11:07:01,2.0166666666666666,11,Thursday,provisional: unflagged non-terminal anchor support,False
+1490,710,2023-03-02,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011015,2023-03-02 11:10:00,2023-03-02 11:13:07,3.1166666666666667,11,Thursday,provisional: unflagged non-terminal anchor support,False
+1513,710,2023-03-02,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011018,2023-03-02 11:37:00,2023-03-02 11:40:51,3.85,11,Thursday,provisional: unflagged non-terminal anchor support,False
+1522,710,2023-03-02,train,107,Health Department,0,health_dept_branch,1011018,2023-03-02 11:45:00,2023-03-02 11:47:23,2.3833333333333333,11,Thursday,provisional: unflagged non-terminal anchor support,False
+1544,710,2023-03-02,train,107,Health Department,1,health_dept_branch,1011019,2023-03-02 12:05:00,2023-03-02 12:06:35,1.5833333333333333,12,Thursday,provisional: unflagged non-terminal anchor support,False
+1552,710,2023-03-02,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011019,2023-03-02 12:10:00,2023-03-02 12:12:24,2.4,12,Thursday,provisional: unflagged non-terminal anchor support,False
+1575,710,2023-03-02,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011022,2023-03-02 12:37:00,2023-03-02 12:41:02,4.033333333333333,12,Thursday,provisional: unflagged non-terminal anchor support,False
+1584,710,2023-03-02,train,107,Health Department,0,health_dept_branch,1011022,2023-03-02 12:45:00,2023-03-02 12:46:50,1.8333333333333333,12,Thursday,provisional: unflagged non-terminal anchor support,False
+1606,710,2023-03-02,train,107,Health Department,1,health_dept_branch,1011023,2023-03-02 13:05:00,2023-03-02 13:07:08,2.1333333333333333,13,Thursday,provisional: unflagged non-terminal anchor support,False
+1614,710,2023-03-02,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011023,2023-03-02 13:10:00,2023-03-02 13:13:33,3.55,13,Thursday,provisional: unflagged non-terminal anchor support,False
+1637,710,2023-03-02,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011026,2023-03-02 13:37:00,2023-03-02 13:40:51,3.85,13,Thursday,provisional: unflagged non-terminal anchor support,False
+1646,710,2023-03-02,train,107,Health Department,0,health_dept_branch,1011026,2023-03-02 13:45:00,2023-03-02 13:47:31,2.5166666666666666,13,Thursday,provisional: unflagged non-terminal anchor support,False
+1668,710,2023-03-02,train,107,Health Department,1,health_dept_branch,1011027,2023-03-02 14:05:00,2023-03-02 14:09:22,4.366666666666666,14,Thursday,provisional: unflagged non-terminal anchor support,False
+1676,710,2023-03-02,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011027,2023-03-02 14:10:00,2023-03-02 14:15:16,5.266666666666667,14,Thursday,provisional: unflagged non-terminal anchor support,False
+1708,710,2023-03-02,train,107,Health Department,0,health_dept_branch,1011030,2023-03-02 14:45:00,2023-03-02 14:53:40,8.666666666666666,14,Thursday,provisional: unflagged non-terminal anchor support,False
+1730,710,2023-03-02,train,107,Health Department,1,health_dept_branch,1011031,2023-03-02 15:05:00,2023-03-02 15:12:52,7.866666666666666,15,Thursday,provisional: unflagged non-terminal anchor support,True
+1770,710,2023-03-02,train,107,Health Department,0,health_dept_branch,1011034,2023-03-02 15:45:00,2023-03-02 16:02:05,17.083333333333332,15,Thursday,provisional: unflagged non-terminal anchor support,True
+1792,710,2023-03-02,train,107,Health Department,1,health_dept_branch,1011035,2023-03-02 16:05:00,2023-03-02 16:14:23,9.383333333333333,16,Thursday,provisional: unflagged non-terminal anchor support,True
+1832,710,2023-03-02,train,107,Health Department,0,health_dept_branch,1011038,2023-03-02 16:45:00,2023-03-02 16:57:24,12.4,16,Thursday,provisional: unflagged non-terminal anchor support,True
+1854,710,2023-03-02,train,107,Health Department,1,health_dept_branch,1011039,2023-03-02 17:05:00,2023-03-02 17:12:24,7.4,17,Thursday,provisional: unflagged non-terminal anchor support,True
+1862,710,2023-03-02,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011039,2023-03-02 17:10:00,2023-03-02 17:19:09,9.15,17,Thursday,provisional: unflagged non-terminal anchor support,True
+3262,2111,2023-03-03,train,1235,NE Walmart Supercenter,1,main_loop,1011001,2023-03-03 05:40:00,2023-03-03 05:39:43,-0.2833333333333333,5,Friday,provisional: terminal-dependent support,False
+3285,2111,2023-03-03,train,1234,NE Walmart Supercenter,0,main_loop,1011002,2023-03-03 06:07:00,2023-03-03 06:09:44,2.7333333333333334,6,Friday,provisional: terminal-dependent support,False
+3324,2111,2023-03-03,train,1235,NE Walmart Supercenter,1,main_loop,1011003,2023-03-03 06:40:00,2023-03-03 06:40:27,0.45,6,Friday,provisional: terminal-dependent support,False
+3347,2111,2023-03-03,train,1234,NE Walmart Supercenter,0,main_loop,1011004,2023-03-03 07:07:00,2023-03-03 07:09:06,2.1,7,Friday,provisional: terminal-dependent support,False
+3386,2111,2023-03-03,train,1235,NE Walmart Supercenter,1,main_loop,1011005,2023-03-03 07:40:00,2023-03-03 07:41:50,1.8333333333333333,7,Friday,provisional: terminal-dependent support,False
+3409,2111,2023-03-03,train,1234,NE Walmart Supercenter,0,main_loop,1011006,2023-03-03 08:07:00,2023-03-03 08:08:43,1.7166666666666666,8,Friday,provisional: terminal-dependent support,False
+3448,2111,2023-03-03,train,1235,NE Walmart Supercenter,1,main_loop,1011007,2023-03-03 08:40:00,2023-03-03 08:40:37,0.6166666666666667,8,Friday,provisional: terminal-dependent support,False
+3471,2111,2023-03-03,train,1234,NE Walmart Supercenter,0,main_loop,1011008,2023-03-03 09:07:00,2023-03-03 09:08:00,1.0,9,Friday,provisional: terminal-dependent support,False
+3510,2111,2023-03-03,train,1235,NE Walmart Supercenter,1,main_loop,1011009,2023-03-03 09:40:00,2023-03-03 09:38:55,-1.0833333333333333,9,Friday,provisional: terminal-dependent support,False
+3533,2111,2023-03-03,train,1234,NE Walmart Supercenter,0,main_loop,1011012,2023-03-03 10:07:00,2023-03-03 10:11:23,4.383333333333334,10,Friday,provisional: terminal-dependent support,False
+3572,2111,2023-03-03,train,1235,NE Walmart Supercenter,1,main_loop,1011013,2023-03-03 10:40:00,2023-03-03 10:39:02,-0.9666666666666667,10,Friday,provisional: terminal-dependent support,False
+3595,2111,2023-03-03,train,1234,NE Walmart Supercenter,0,main_loop,1011016,2023-03-03 11:07:00,2023-03-03 11:14:04,7.066666666666666,11,Friday,provisional: terminal-dependent support,False
+3634,2111,2023-03-03,train,1235,NE Walmart Supercenter,1,main_loop,1011017,2023-03-03 11:40:00,2023-03-03 11:40:40,0.6666666666666666,11,Friday,provisional: terminal-dependent support,False
+3657,2111,2023-03-03,train,1234,NE Walmart Supercenter,0,main_loop,1011020,2023-03-03 12:07:00,2023-03-03 12:11:02,4.033333333333333,12,Friday,provisional: terminal-dependent support,False
+3696,2111,2023-03-03,train,1235,NE Walmart Supercenter,1,main_loop,1011021,2023-03-03 12:40:00,2023-03-03 12:40:46,0.7666666666666667,12,Friday,provisional: terminal-dependent support,False
+3719,2111,2023-03-03,train,1234,NE Walmart Supercenter,0,main_loop,1011024,2023-03-03 13:07:00,2023-03-03 13:09:01,2.0166666666666666,13,Friday,provisional: terminal-dependent support,False
+3758,2111,2023-03-03,train,1235,NE Walmart Supercenter,1,main_loop,1011025,2023-03-03 13:40:00,2023-03-03 13:39:11,-0.8166666666666667,13,Friday,provisional: terminal-dependent support,False
+3781,2111,2023-03-03,train,1234,NE Walmart Supercenter,0,main_loop,1011028,2023-03-03 14:07:00,2023-03-03 14:10:09,3.15,14,Friday,provisional: terminal-dependent support,False
+3820,2111,2023-03-03,train,1235,NE Walmart Supercenter,1,main_loop,1011029,2023-03-03 14:40:00,2023-03-03 14:41:39,1.65,14,Friday,provisional: terminal-dependent support,False
+3843,2111,2023-03-03,train,1234,NE Walmart Supercenter,0,main_loop,1011032,2023-03-03 15:07:00,2023-03-03 15:10:20,3.3333333333333335,15,Friday,provisional: terminal-dependent support,False
+3882,2111,2023-03-03,train,1235,NE Walmart Supercenter,1,main_loop,1011033,2023-03-03 15:40:00,2023-03-03 15:40:22,0.36666666666666664,15,Friday,provisional: terminal-dependent support,False
+3905,2111,2023-03-03,train,1234,NE Walmart Supercenter,0,main_loop,1011036,2023-03-03 16:07:00,2023-03-03 16:11:02,4.033333333333333,16,Friday,provisional: terminal-dependent support,False
+3944,2111,2023-03-03,train,1235,NE Walmart Supercenter,1,main_loop,1011037,2023-03-03 16:40:00,2023-03-03 16:41:16,1.2666666666666666,16,Friday,provisional: terminal-dependent support,False
+3967,2111,2023-03-03,train,1234,NE Walmart Supercenter,0,main_loop,1011040,2023-03-03 17:07:00,2023-03-03 17:08:35,1.5833333333333333,17,Friday,provisional: terminal-dependent support,False
+4006,2111,2023-03-03,train,1235,NE Walmart Supercenter,1,main_loop,1011041,2023-03-03 17:40:00,2023-03-03 17:39:27,-0.55,17,Friday,provisional: terminal-dependent support,False
+4029,2111,2023-03-03,train,1234,NE Walmart Supercenter,0,main_loop,1011042,2023-03-03 18:07:00,2023-03-03 18:08:11,1.1833333333333333,18,Friday,provisional: terminal-dependent support,False
+4061,2111,2023-03-03,train,1235,NE Walmart Supercenter,1,main_loop,1011043,2023-03-03 18:40:00,2023-03-03 18:36:35,-3.4166666666666665,18,Friday,provisional: terminal-dependent support,True
+4084,2111,2023-03-03,train,1234,NE Walmart Supercenter,0,main_loop,1011044,2023-03-03 19:07:00,2023-03-03 19:13:10,6.166666666666667,19,Friday,provisional: terminal-dependent support,False
+4116,2111,2023-03-03,train,1235,NE Walmart Supercenter,1,main_loop,1011045,2023-03-03 19:40:00,2023-03-03 19:36:58,-3.033333333333333,19,Friday,provisional: terminal-dependent support,False
+2760,710,2023-03-03,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011010,2023-03-03 09:37:00,2023-03-03 09:37:04,0.06666666666666667,9,Friday,provisional: unflagged non-terminal anchor support,False
+2769,710,2023-03-03,train,107,Health Department,0,health_dept_branch,1011010,2023-03-03 09:45:00,2023-03-03 09:41:35,-3.4166666666666665,9,Friday,provisional: unflagged non-terminal anchor support,False
+2791,710,2023-03-03,train,107,Health Department,1,health_dept_branch,1011011,2023-03-03 10:05:00,2023-03-03 10:04:58,-0.03333333333333333,10,Friday,provisional: unflagged non-terminal anchor support,False
+2799,710,2023-03-03,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011011,2023-03-03 10:10:00,2023-03-03 10:09:23,-0.6166666666666667,10,Friday,provisional: unflagged non-terminal anchor support,False
+2822,710,2023-03-03,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011014,2023-03-03 10:37:00,2023-03-03 10:38:02,1.0333333333333334,10,Friday,provisional: unflagged non-terminal anchor support,False
+2831,710,2023-03-03,train,107,Health Department,0,health_dept_branch,1011014,2023-03-03 10:45:00,2023-03-03 10:43:05,-1.9166666666666667,10,Friday,provisional: unflagged non-terminal anchor support,False
+2853,710,2023-03-03,train,107,Health Department,1,health_dept_branch,1011015,2023-03-03 11:05:00,2023-03-03 11:04:43,-0.2833333333333333,11,Friday,provisional: unflagged non-terminal anchor support,False
+2861,710,2023-03-03,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011015,2023-03-03 11:10:00,2023-03-03 11:10:58,0.9666666666666667,11,Friday,provisional: unflagged non-terminal anchor support,False
+2884,710,2023-03-03,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011018,2023-03-03 11:37:00,2023-03-03 11:42:52,5.866666666666666,11,Friday,provisional: unflagged non-terminal anchor support,False
+2893,710,2023-03-03,train,107,Health Department,0,health_dept_branch,1011018,2023-03-03 11:45:00,2023-03-03 11:47:45,2.75,11,Friday,provisional: unflagged non-terminal anchor support,False
+2915,710,2023-03-03,train,107,Health Department,1,health_dept_branch,1011019,2023-03-03 12:05:00,2023-03-03 12:06:02,1.0333333333333334,12,Friday,provisional: unflagged non-terminal anchor support,False
+2923,710,2023-03-03,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011019,2023-03-03 12:10:00,2023-03-03 12:11:01,1.0166666666666666,12,Friday,provisional: unflagged non-terminal anchor support,False
+2946,710,2023-03-03,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011022,2023-03-03 12:37:00,2023-03-03 12:37:23,0.38333333333333336,12,Friday,provisional: unflagged non-terminal anchor support,False
+2955,710,2023-03-03,train,107,Health Department,0,health_dept_branch,1011022,2023-03-03 12:45:00,2023-03-03 12:42:44,-2.2666666666666666,12,Friday,provisional: unflagged non-terminal anchor support,False
+2977,710,2023-03-03,train,107,Health Department,1,health_dept_branch,1011023,2023-03-03 13:05:00,2023-03-03 13:05:20,0.3333333333333333,13,Friday,provisional: unflagged non-terminal anchor support,False
+2985,710,2023-03-03,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011023,2023-03-03 13:10:00,2023-03-03 13:10:30,0.5,13,Friday,provisional: unflagged non-terminal anchor support,False
+3008,710,2023-03-03,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011026,2023-03-03 13:37:00,2023-03-03 13:41:08,4.133333333333334,13,Friday,provisional: unflagged non-terminal anchor support,False
+3017,710,2023-03-03,train,107,Health Department,0,health_dept_branch,1011026,2023-03-03 13:45:00,2023-03-03 13:47:57,2.95,13,Friday,provisional: unflagged non-terminal anchor support,False
+3039,710,2023-03-03,train,107,Health Department,1,health_dept_branch,1011027,2023-03-03 14:05:00,2023-03-03 14:06:15,1.25,14,Friday,provisional: unflagged non-terminal anchor support,False
+3047,710,2023-03-03,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011027,2023-03-03 14:10:00,2023-03-03 14:13:33,3.55,14,Friday,provisional: unflagged non-terminal anchor support,False
+3070,710,2023-03-03,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011030,2023-03-03 14:37:00,2023-03-03 14:39:21,2.35,14,Friday,provisional: unflagged non-terminal anchor support,False
+3079,710,2023-03-03,train,107,Health Department,0,health_dept_branch,1011030,2023-03-03 14:45:00,2023-03-03 14:46:35,1.5833333333333333,14,Friday,provisional: unflagged non-terminal anchor support,False
+3101,710,2023-03-03,train,107,Health Department,1,health_dept_branch,1011031,2023-03-03 15:05:00,2023-03-03 15:05:37,0.6166666666666667,15,Friday,provisional: unflagged non-terminal anchor support,False
+3109,710,2023-03-03,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011031,2023-03-03 15:10:00,2023-03-03 15:11:48,1.8,15,Friday,provisional: unflagged non-terminal anchor support,False
+3132,710,2023-03-03,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011034,2023-03-03 15:37:00,2023-03-03 15:45:52,8.866666666666667,15,Friday,provisional: unflagged non-terminal anchor support,False
+3141,710,2023-03-03,train,107,Health Department,0,health_dept_branch,1011034,2023-03-03 15:45:00,2023-03-03 15:50:38,5.633333333333334,15,Friday,provisional: unflagged non-terminal anchor support,False
+3163,710,2023-03-03,train,107,Health Department,1,health_dept_branch,1011035,2023-03-03 16:05:00,2023-03-03 16:07:42,2.7,16,Friday,provisional: unflagged non-terminal anchor support,False
+3171,710,2023-03-03,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011035,2023-03-03 16:10:00,2023-03-03 16:12:35,2.5833333333333335,16,Friday,provisional: unflagged non-terminal anchor support,False
+3194,710,2023-03-03,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011038,2023-03-03 16:37:00,2023-03-03 16:38:05,1.0833333333333333,16,Friday,provisional: unflagged non-terminal anchor support,False
+3203,710,2023-03-03,train,107,Health Department,0,health_dept_branch,1011038,2023-03-03 16:45:00,2023-03-03 16:44:29,-0.5166666666666667,16,Friday,provisional: unflagged non-terminal anchor support,False
+3225,710,2023-03-03,train,107,Health Department,1,health_dept_branch,1011039,2023-03-03 17:05:00,2023-03-03 17:08:56,3.933333333333333,17,Friday,provisional: unflagged non-terminal anchor support,False
+3233,710,2023-03-03,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011039,2023-03-03 17:10:00,2023-03-03 17:14:38,4.633333333333334,17,Friday,provisional: unflagged non-terminal anchor support,False
+4643,2111,2023-03-06,train,1235,NE Walmart Supercenter,1,main_loop,1011001,2023-03-06 05:40:00,2023-03-06 05:39:28,-0.5333333333333333,5,Monday,provisional: terminal-dependent support,False
+4666,2111,2023-03-06,train,1234,NE Walmart Supercenter,0,main_loop,1011002,2023-03-06 06:07:00,2023-03-06 06:12:44,5.733333333333333,6,Monday,provisional: terminal-dependent support,False
+4705,2111,2023-03-06,train,1235,NE Walmart Supercenter,1,main_loop,1011003,2023-03-06 06:40:00,2023-03-06 06:40:18,0.3,6,Monday,provisional: terminal-dependent support,False
+4728,2111,2023-03-06,train,1234,NE Walmart Supercenter,0,main_loop,1011004,2023-03-06 07:07:00,2023-03-06 07:08:38,1.6333333333333333,7,Monday,provisional: terminal-dependent support,False
+4767,2111,2023-03-06,train,1235,NE Walmart Supercenter,1,main_loop,1011005,2023-03-06 07:40:00,2023-03-06 07:41:55,1.9166666666666667,7,Monday,provisional: terminal-dependent support,False
+4790,2111,2023-03-06,train,1234,NE Walmart Supercenter,0,main_loop,1011006,2023-03-06 08:07:00,2023-03-06 08:10:39,3.65,8,Monday,provisional: terminal-dependent support,False
+4829,2111,2023-03-06,train,1235,NE Walmart Supercenter,1,main_loop,1011007,2023-03-06 08:40:00,2023-03-06 08:40:04,0.06666666666666667,8,Monday,provisional: terminal-dependent support,False
+4852,2111,2023-03-06,train,1234,NE Walmart Supercenter,0,main_loop,1011008,2023-03-06 09:07:00,2023-03-06 09:11:31,4.516666666666667,9,Monday,provisional: terminal-dependent support,False
+4891,2111,2023-03-06,train,1235,NE Walmart Supercenter,1,main_loop,1011009,2023-03-06 09:40:00,2023-03-06 09:41:29,1.4833333333333334,9,Monday,provisional: terminal-dependent support,False
+4914,2111,2023-03-06,train,1234,NE Walmart Supercenter,0,main_loop,1011012,2023-03-06 10:07:00,2023-03-06 10:09:37,2.6166666666666667,10,Monday,provisional: terminal-dependent support,False
+4953,2111,2023-03-06,train,1235,NE Walmart Supercenter,1,main_loop,1011013,2023-03-06 10:40:00,2023-03-06 10:41:48,1.8,10,Monday,provisional: terminal-dependent support,False
+4976,2111,2023-03-06,train,1234,NE Walmart Supercenter,0,main_loop,1011016,2023-03-06 11:07:00,2023-03-06 11:12:34,5.566666666666666,11,Monday,provisional: terminal-dependent support,False
+5015,2111,2023-03-06,train,1235,NE Walmart Supercenter,1,main_loop,1011017,2023-03-06 11:40:00,2023-03-06 11:40:23,0.38333333333333336,11,Monday,provisional: terminal-dependent support,False
+5038,2111,2023-03-06,train,1234,NE Walmart Supercenter,0,main_loop,1011020,2023-03-06 12:07:00,2023-03-06 12:10:50,3.8333333333333335,12,Monday,provisional: terminal-dependent support,False
+5077,2111,2023-03-06,train,1235,NE Walmart Supercenter,1,main_loop,1011021,2023-03-06 12:40:00,2023-03-06 12:39:31,-0.48333333333333334,12,Monday,provisional: terminal-dependent support,False
+5100,2111,2023-03-06,train,1234,NE Walmart Supercenter,0,main_loop,1011024,2023-03-06 13:07:00,2023-03-06 13:09:10,2.1666666666666665,13,Monday,provisional: terminal-dependent support,False
+5139,2111,2023-03-06,train,1235,NE Walmart Supercenter,1,main_loop,1011025,2023-03-06 13:40:00,2023-03-06 13:39:21,-0.65,13,Monday,provisional: terminal-dependent support,False
+5162,2111,2023-03-06,train,1234,NE Walmart Supercenter,0,main_loop,1011028,2023-03-06 14:07:00,2023-03-06 14:09:20,2.3333333333333335,14,Monday,provisional: terminal-dependent support,False
+5201,2111,2023-03-06,train,1235,NE Walmart Supercenter,1,main_loop,1011029,2023-03-06 14:40:00,2023-03-06 14:40:55,0.9166666666666666,14,Monday,provisional: terminal-dependent support,False
+5224,2111,2023-03-06,train,1234,NE Walmart Supercenter,0,main_loop,1011032,2023-03-06 15:07:00,2023-03-06 15:07:58,0.9666666666666667,15,Monday,provisional: terminal-dependent support,False
+5263,2111,2023-03-06,train,1235,NE Walmart Supercenter,1,main_loop,1011033,2023-03-06 15:40:00,2023-03-06 15:40:40,0.6666666666666666,15,Monday,provisional: terminal-dependent support,False
+5286,2111,2023-03-06,train,1234,NE Walmart Supercenter,0,main_loop,1011036,2023-03-06 16:07:00,2023-03-06 16:10:59,3.9833333333333334,16,Monday,provisional: terminal-dependent support,False
+5325,2111,2023-03-06,train,1235,NE Walmart Supercenter,1,main_loop,1011037,2023-03-06 16:40:00,2023-03-06 16:40:07,0.11666666666666667,16,Monday,provisional: terminal-dependent support,False
+5348,2111,2023-03-06,train,1234,NE Walmart Supercenter,0,main_loop,1011040,2023-03-06 17:07:00,2023-03-06 17:10:06,3.1,17,Monday,provisional: terminal-dependent support,False
+5387,2111,2023-03-06,train,1235,NE Walmart Supercenter,1,main_loop,1011041,2023-03-06 17:40:00,2023-03-06 17:43:00,3.0,17,Monday,provisional: terminal-dependent support,False
+5410,2111,2023-03-06,train,1234,NE Walmart Supercenter,0,main_loop,1011042,2023-03-06 18:07:00,2023-03-06 18:08:01,1.0166666666666666,18,Monday,provisional: terminal-dependent support,False
+5442,2111,2023-03-06,train,1235,NE Walmart Supercenter,1,main_loop,1011043,2023-03-06 18:40:00,2023-03-06 18:38:44,-1.2666666666666666,18,Monday,provisional: terminal-dependent support,False
+5465,2111,2023-03-06,train,1234,NE Walmart Supercenter,0,main_loop,1011044,2023-03-06 19:07:00,2023-03-06 19:14:33,7.55,19,Monday,provisional: terminal-dependent support,False
+5497,2111,2023-03-06,train,1235,NE Walmart Supercenter,1,main_loop,1011045,2023-03-06 19:40:00,2023-03-06 19:39:21,-0.65,19,Monday,provisional: terminal-dependent support,False
+4139,710,2023-03-06,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011010,2023-03-06 09:37:00,2023-03-06 09:36:51,-0.15,9,Monday,provisional: unflagged non-terminal anchor support,False
+4148,710,2023-03-06,train,107,Health Department,0,health_dept_branch,1011010,2023-03-06 09:45:00,2023-03-06 09:40:56,-4.066666666666666,9,Monday,provisional: unflagged non-terminal anchor support,False
+4170,710,2023-03-06,train,107,Health Department,1,health_dept_branch,1011011,2023-03-06 10:05:00,2023-03-06 10:04:43,-0.2833333333333333,10,Monday,provisional: unflagged non-terminal anchor support,False
+4178,710,2023-03-06,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011011,2023-03-06 10:10:00,2023-03-06 10:09:17,-0.7166666666666667,10,Monday,provisional: unflagged non-terminal anchor support,False
+4201,710,2023-03-06,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011014,2023-03-06 10:37:00,2023-03-06 10:36:43,-0.2833333333333333,10,Monday,provisional: unflagged non-terminal anchor support,False
+4210,710,2023-03-06,train,107,Health Department,0,health_dept_branch,1011014,2023-03-06 10:45:00,2023-03-06 10:41:09,-3.85,10,Monday,provisional: unflagged non-terminal anchor support,False
+4232,710,2023-03-06,train,107,Health Department,1,health_dept_branch,1011015,2023-03-06 11:05:00,2023-03-06 11:05:08,0.13333333333333333,11,Monday,provisional: unflagged non-terminal anchor support,False
+4240,710,2023-03-06,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011015,2023-03-06 11:10:00,2023-03-06 11:09:57,-0.05,11,Monday,provisional: unflagged non-terminal anchor support,False
+4263,710,2023-03-06,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011018,2023-03-06 11:37:00,2023-03-06 11:37:26,0.43333333333333335,11,Monday,provisional: unflagged non-terminal anchor support,False
+4272,710,2023-03-06,train,107,Health Department,0,health_dept_branch,1011018,2023-03-06 11:45:00,2023-03-06 11:42:19,-2.683333333333333,11,Monday,provisional: unflagged non-terminal anchor support,False
+4294,710,2023-03-06,train,107,Health Department,1,health_dept_branch,1011019,2023-03-06 12:05:00,2023-03-06 12:05:17,0.2833333333333333,12,Monday,provisional: unflagged non-terminal anchor support,False
+4302,710,2023-03-06,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011019,2023-03-06 12:10:00,2023-03-06 12:11:22,1.3666666666666667,12,Monday,provisional: unflagged non-terminal anchor support,False
+4325,710,2023-03-06,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011022,2023-03-06 12:37:00,2023-03-06 12:37:30,0.5,12,Monday,provisional: unflagged non-terminal anchor support,False
+4334,710,2023-03-06,train,107,Health Department,0,health_dept_branch,1011022,2023-03-06 12:45:00,2023-03-06 12:42:18,-2.7,12,Monday,provisional: unflagged non-terminal anchor support,False
+4356,710,2023-03-06,train,107,Health Department,1,health_dept_branch,1011023,2023-03-06 13:05:00,2023-03-06 13:05:38,0.6333333333333333,13,Monday,provisional: unflagged non-terminal anchor support,False
+4364,710,2023-03-06,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011023,2023-03-06 13:10:00,2023-03-06 13:10:23,0.38333333333333336,13,Monday,provisional: unflagged non-terminal anchor support,False
+4387,710,2023-03-06,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011026,2023-03-06 13:37:00,2023-03-06 13:37:46,0.7666666666666667,13,Monday,provisional: unflagged non-terminal anchor support,False
+4396,710,2023-03-06,train,107,Health Department,0,health_dept_branch,1011026,2023-03-06 13:45:00,2023-03-06 13:42:12,-2.8,13,Monday,provisional: unflagged non-terminal anchor support,False
+4418,710,2023-03-06,train,107,Health Department,1,health_dept_branch,1011027,2023-03-06 14:05:00,2023-03-06 14:07:54,2.9,14,Monday,provisional: unflagged non-terminal anchor support,False
+4426,710,2023-03-06,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011027,2023-03-06 14:10:00,2023-03-06 14:12:32,2.533333333333333,14,Monday,provisional: unflagged non-terminal anchor support,False
+4449,710,2023-03-06,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011030,2023-03-06 14:37:00,2023-03-06 14:37:30,0.5,14,Monday,provisional: unflagged non-terminal anchor support,False
+4458,710,2023-03-06,train,107,Health Department,0,health_dept_branch,1011030,2023-03-06 14:45:00,2023-03-06 14:43:28,-1.5333333333333334,14,Monday,provisional: unflagged non-terminal anchor support,False
+4480,710,2023-03-06,train,107,Health Department,1,health_dept_branch,1011031,2023-03-06 15:05:00,2023-03-06 15:06:03,1.05,15,Monday,provisional: unflagged non-terminal anchor support,False
+4488,710,2023-03-06,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011031,2023-03-06 15:10:00,2023-03-06 15:12:05,2.0833333333333335,15,Monday,provisional: unflagged non-terminal anchor support,False
+4511,710,2023-03-06,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011034,2023-03-06 15:37:00,2023-03-06 15:38:17,1.2833333333333334,15,Monday,provisional: unflagged non-terminal anchor support,False
+4520,710,2023-03-06,train,107,Health Department,0,health_dept_branch,1011034,2023-03-06 15:45:00,2023-03-06 15:43:02,-1.9666666666666666,15,Monday,provisional: unflagged non-terminal anchor support,False
+4542,710,2023-03-06,train,107,Health Department,1,health_dept_branch,1011035,2023-03-06 16:05:00,2023-03-06 16:05:26,0.43333333333333335,16,Monday,provisional: unflagged non-terminal anchor support,False
+4550,710,2023-03-06,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011035,2023-03-06 16:10:00,2023-03-06 16:09:46,-0.23333333333333334,16,Monday,provisional: unflagged non-terminal anchor support,False
+4584,710,2023-03-06,train,107,Health Department,0,health_dept_branch,1011038,2023-03-06 16:45:00,2023-03-06 16:43:44,-1.2666666666666666,16,Monday,provisional: unflagged non-terminal anchor support,False
+4606,710,2023-03-06,train,107,Health Department,1,health_dept_branch,1011039,2023-03-06 17:05:00,2023-03-06 17:05:52,0.8666666666666667,17,Monday,provisional: unflagged non-terminal anchor support,False
+4614,710,2023-03-06,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011039,2023-03-06 17:10:00,2023-03-06 17:11:03,1.05,17,Monday,provisional: unflagged non-terminal anchor support,False
+6028,2111,2023-03-07,train,1235,NE Walmart Supercenter,1,main_loop,1011001,2023-03-07 05:40:00,2023-03-07 05:40:01,0.016666666666666666,5,Tuesday,provisional: terminal-dependent support,False
+6051,2111,2023-03-07,train,1234,NE Walmart Supercenter,0,main_loop,1011002,2023-03-07 06:07:00,2023-03-07 06:12:47,5.783333333333333,6,Tuesday,provisional: terminal-dependent support,False
+6090,2111,2023-03-07,train,1235,NE Walmart Supercenter,1,main_loop,1011003,2023-03-07 06:40:00,2023-03-07 06:41:16,1.2666666666666666,6,Tuesday,provisional: terminal-dependent support,False
+6113,2111,2023-03-07,train,1234,NE Walmart Supercenter,0,main_loop,1011004,2023-03-07 07:07:00,2023-03-07 07:06:57,-0.05,7,Tuesday,provisional: terminal-dependent support,False
+6152,2111,2023-03-07,train,1235,NE Walmart Supercenter,1,main_loop,1011005,2023-03-07 07:40:00,2023-03-07 07:43:39,3.65,7,Tuesday,provisional: terminal-dependent support,False
+6175,2111,2023-03-07,train,1234,NE Walmart Supercenter,0,main_loop,1011006,2023-03-07 08:07:00,2023-03-07 08:10:35,3.5833333333333335,8,Tuesday,provisional: terminal-dependent support,False
+6214,2111,2023-03-07,train,1235,NE Walmart Supercenter,1,main_loop,1011007,2023-03-07 08:40:00,2023-03-07 08:40:32,0.5333333333333333,8,Tuesday,provisional: terminal-dependent support,False
+6237,2111,2023-03-07,train,1234,NE Walmart Supercenter,0,main_loop,1011008,2023-03-07 09:07:00,2023-03-07 09:11:01,4.016666666666667,9,Tuesday,provisional: terminal-dependent support,False
+6276,2111,2023-03-07,train,1235,NE Walmart Supercenter,1,main_loop,1011009,2023-03-07 09:40:00,2023-03-07 09:40:43,0.7166666666666667,9,Tuesday,provisional: terminal-dependent support,False
+6299,2111,2023-03-07,train,1234,NE Walmart Supercenter,0,main_loop,1011012,2023-03-07 10:07:00,2023-03-07 10:14:21,7.35,10,Tuesday,provisional: terminal-dependent support,False
+6338,2111,2023-03-07,train,1235,NE Walmart Supercenter,1,main_loop,1011013,2023-03-07 10:40:00,2023-03-07 10:39:53,-0.11666666666666667,10,Tuesday,provisional: terminal-dependent support,False
+6361,2111,2023-03-07,train,1234,NE Walmart Supercenter,0,main_loop,1011016,2023-03-07 11:07:00,2023-03-07 11:09:34,2.566666666666667,11,Tuesday,provisional: terminal-dependent support,False
+6396,2111,2023-03-07,train,1235,NE Walmart Supercenter,1,main_loop,1011017,2023-03-07 11:40:00,2023-03-07 11:39:55,-0.08333333333333333,11,Tuesday,provisional: terminal-dependent support,False
+6419,2111,2023-03-07,train,1234,NE Walmart Supercenter,0,main_loop,1011020,2023-03-07 12:07:00,2023-03-07 12:12:33,5.55,12,Tuesday,provisional: terminal-dependent support,False
+6458,2111,2023-03-07,train,1235,NE Walmart Supercenter,1,main_loop,1011021,2023-03-07 12:40:00,2023-03-07 12:38:00,-2.0,12,Tuesday,provisional: terminal-dependent support,False
+6503,2111,2023-03-07,train,1235,NE Walmart Supercenter,1,main_loop,1011025,2023-03-07 13:40:00,2023-03-07 13:39:34,-0.43333333333333335,13,Tuesday,provisional: terminal-dependent support,False
+6526,2111,2023-03-07,train,1234,NE Walmart Supercenter,0,main_loop,1011028,2023-03-07 14:07:00,2023-03-07 14:07:47,0.7833333333333333,14,Tuesday,provisional: terminal-dependent support,False
+6565,2111,2023-03-07,train,1235,NE Walmart Supercenter,1,main_loop,1011029,2023-03-07 14:40:00,2023-03-07 14:40:09,0.15,14,Tuesday,provisional: terminal-dependent support,False
+6585,2111,2023-03-07,train,1234,NE Walmart Supercenter,0,main_loop,1011032,2023-03-07 15:07:00,2023-03-07 15:16:15,9.25,15,Tuesday,provisional: terminal-dependent support,False
+6624,2111,2023-03-07,train,1235,NE Walmart Supercenter,1,main_loop,1011033,2023-03-07 15:40:00,2023-03-07 15:39:36,-0.4,15,Tuesday,provisional: terminal-dependent support,False
+6647,2111,2023-03-07,train,1234,NE Walmart Supercenter,0,main_loop,1011036,2023-03-07 16:07:00,2023-03-07 16:08:50,1.8333333333333333,16,Tuesday,provisional: terminal-dependent support,False
+6686,2111,2023-03-07,train,1235,NE Walmart Supercenter,1,main_loop,1011037,2023-03-07 16:40:00,2023-03-07 16:40:51,0.85,16,Tuesday,provisional: terminal-dependent support,False
+6709,2111,2023-03-07,train,1234,NE Walmart Supercenter,0,main_loop,1011040,2023-03-07 17:07:00,2023-03-07 17:07:59,0.9833333333333333,17,Tuesday,provisional: terminal-dependent support,False
+6748,2111,2023-03-07,train,1235,NE Walmart Supercenter,1,main_loop,1011041,2023-03-07 17:40:00,2023-03-07 17:41:05,1.0833333333333333,17,Tuesday,provisional: terminal-dependent support,False
+6771,2111,2023-03-07,train,1234,NE Walmart Supercenter,0,main_loop,1011042,2023-03-07 18:07:00,2023-03-07 18:08:26,1.4333333333333333,18,Tuesday,provisional: terminal-dependent support,False
+6803,2111,2023-03-07,train,1235,NE Walmart Supercenter,1,main_loop,1011043,2023-03-07 18:40:00,2023-03-07 18:37:45,-2.25,18,Tuesday,provisional: terminal-dependent support,False
+6826,2111,2023-03-07,train,1234,NE Walmart Supercenter,0,main_loop,1011044,2023-03-07 19:07:00,2023-03-07 19:09:37,2.6166666666666667,19,Tuesday,provisional: terminal-dependent support,False
+6858,2111,2023-03-07,train,1235,NE Walmart Supercenter,1,main_loop,1011045,2023-03-07 19:40:00,2023-03-07 19:38:13,-1.7833333333333334,19,Tuesday,provisional: terminal-dependent support,False
+5520,710,2023-03-07,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011010,2023-03-07 09:37:00,2023-03-07 09:36:50,-0.16666666666666666,9,Tuesday,provisional: unflagged non-terminal anchor support,False
+5529,710,2023-03-07,train,107,Health Department,0,health_dept_branch,1011010,2023-03-07 09:45:00,2023-03-07 09:41:47,-3.216666666666667,9,Tuesday,provisional: unflagged non-terminal anchor support,False
+5551,710,2023-03-07,train,107,Health Department,1,health_dept_branch,1011011,2023-03-07 10:05:00,2023-03-07 10:05:38,0.6333333333333333,10,Tuesday,provisional: unflagged non-terminal anchor support,False
+5559,710,2023-03-07,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011011,2023-03-07 10:10:00,2023-03-07 10:13:26,3.433333333333333,10,Tuesday,provisional: unflagged non-terminal anchor support,False
+5582,710,2023-03-07,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011014,2023-03-07 10:37:00,2023-03-07 10:36:34,-0.43333333333333335,10,Tuesday,provisional: unflagged non-terminal anchor support,False
+5591,710,2023-03-07,train,107,Health Department,0,health_dept_branch,1011014,2023-03-07 10:45:00,2023-03-07 10:41:53,-3.1166666666666667,10,Tuesday,provisional: unflagged non-terminal anchor support,False
+5613,710,2023-03-07,train,107,Health Department,1,health_dept_branch,1011015,2023-03-07 11:05:00,2023-03-07 11:05:24,0.4,11,Tuesday,provisional: unflagged non-terminal anchor support,False
+5621,710,2023-03-07,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011015,2023-03-07 11:10:00,2023-03-07 11:09:59,-0.016666666666666666,11,Tuesday,provisional: unflagged non-terminal anchor support,False
+5644,710,2023-03-07,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011018,2023-03-07 11:37:00,2023-03-07 11:37:58,0.9666666666666667,11,Tuesday,provisional: unflagged non-terminal anchor support,False
+5653,710,2023-03-07,train,107,Health Department,0,health_dept_branch,1011018,2023-03-07 11:45:00,2023-03-07 11:42:24,-2.6,11,Tuesday,provisional: unflagged non-terminal anchor support,False
+5675,710,2023-03-07,train,107,Health Department,1,health_dept_branch,1011019,2023-03-07 12:05:00,2023-03-07 12:05:19,0.31666666666666665,12,Tuesday,provisional: unflagged non-terminal anchor support,False
+5683,710,2023-03-07,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011019,2023-03-07 12:10:00,2023-03-07 12:09:57,-0.05,12,Tuesday,provisional: unflagged non-terminal anchor support,False
+5706,710,2023-03-07,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011022,2023-03-07 12:37:00,2023-03-07 12:37:23,0.38333333333333336,12,Tuesday,provisional: unflagged non-terminal anchor support,False
+5715,710,2023-03-07,train,107,Health Department,0,health_dept_branch,1011022,2023-03-07 12:45:00,2023-03-07 12:43:11,-1.8166666666666667,12,Tuesday,provisional: unflagged non-terminal anchor support,False
+5737,710,2023-03-07,train,107,Health Department,1,health_dept_branch,1011023,2023-03-07 13:05:00,2023-03-07 13:05:17,0.2833333333333333,13,Tuesday,provisional: unflagged non-terminal anchor support,False
+5745,710,2023-03-07,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011023,2023-03-07 13:10:00,2023-03-07 13:11:36,1.6,13,Tuesday,provisional: unflagged non-terminal anchor support,False
+5768,710,2023-03-07,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011026,2023-03-07 13:37:00,2023-03-07 13:39:00,2.0,13,Tuesday,provisional: unflagged non-terminal anchor support,False
+5777,710,2023-03-07,train,107,Health Department,0,health_dept_branch,1011026,2023-03-07 13:45:00,2023-03-07 13:43:45,-1.25,13,Tuesday,provisional: unflagged non-terminal anchor support,False
+5799,710,2023-03-07,train,107,Health Department,1,health_dept_branch,1011027,2023-03-07 14:05:00,2023-03-07 14:07:03,2.05,14,Tuesday,provisional: terminal-dependent support,False
+5809,710,2023-03-07,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011027,2023-03-07 14:10:00,2023-03-07 14:12:31,2.5166666666666666,14,Tuesday,provisional: terminal-dependent support,False
+5832,710,2023-03-07,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011030,2023-03-07 14:37:00,2023-03-07 14:37:29,0.48333333333333334,14,Tuesday,provisional: unflagged non-terminal anchor support,False
+5841,710,2023-03-07,train,107,Health Department,0,health_dept_branch,1011030,2023-03-07 14:45:00,2023-03-07 14:43:10,-1.8333333333333333,14,Tuesday,provisional: unflagged non-terminal anchor support,False
+5863,710,2023-03-07,train,107,Health Department,1,health_dept_branch,1011031,2023-03-07 15:05:00,2023-03-07 15:07:17,2.283333333333333,15,Tuesday,provisional: unflagged non-terminal anchor support,False
+5871,710,2023-03-07,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011031,2023-03-07 15:10:00,2023-03-07 15:12:55,2.9166666666666665,15,Tuesday,provisional: unflagged non-terminal anchor support,False
+5894,710,2023-03-07,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011034,2023-03-07 15:37:00,2023-03-07 15:36:25,-0.5833333333333334,15,Tuesday,provisional: unflagged non-terminal anchor support,False
+5903,710,2023-03-07,train,107,Health Department,0,health_dept_branch,1011034,2023-03-07 15:45:00,2023-03-07 15:41:16,-3.7333333333333334,15,Tuesday,provisional: unflagged non-terminal anchor support,False
+5929,710,2023-03-07,train,107,Health Department,1,health_dept_branch,1011035,2023-03-07 16:05:00,2023-03-07 16:05:07,0.11666666666666667,16,Tuesday,provisional: unflagged non-terminal anchor support,False
+5937,710,2023-03-07,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011035,2023-03-07 16:10:00,2023-03-07 16:09:46,-0.23333333333333334,16,Tuesday,provisional: unflagged non-terminal anchor support,False
+5960,710,2023-03-07,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011038,2023-03-07 16:37:00,2023-03-07 16:42:35,5.583333333333333,16,Tuesday,provisional: unflagged non-terminal anchor support,False
+5969,710,2023-03-07,train,107,Health Department,0,health_dept_branch,1011038,2023-03-07 16:45:00,2023-03-07 16:47:56,2.933333333333333,16,Tuesday,provisional: unflagged non-terminal anchor support,False
+5991,710,2023-03-07,train,107,Health Department,1,health_dept_branch,1011039,2023-03-07 17:05:00,2023-03-07 17:06:13,1.2166666666666666,17,Tuesday,provisional: unflagged non-terminal anchor support,False
+5999,710,2023-03-07,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011039,2023-03-07 17:10:00,2023-03-07 17:11:36,1.6,17,Tuesday,provisional: unflagged non-terminal anchor support,False
+7383,2111,2023-03-08,train,1235,NE Walmart Supercenter,1,main_loop,1011001,2023-03-08 05:40:00,2023-03-08 05:40:07,0.11666666666666667,5,Wednesday,provisional: terminal-dependent support,False
+7406,2111,2023-03-08,train,1234,NE Walmart Supercenter,0,main_loop,1011002,2023-03-08 06:07:00,2023-03-08 06:11:08,4.133333333333334,6,Wednesday,provisional: terminal-dependent support,False
+7445,2111,2023-03-08,train,1235,NE Walmart Supercenter,1,main_loop,1011003,2023-03-08 06:40:00,2023-03-08 06:39:58,-0.03333333333333333,6,Wednesday,provisional: terminal-dependent support,False
+7468,2111,2023-03-08,train,1234,NE Walmart Supercenter,0,main_loop,1011004,2023-03-08 07:07:00,2023-03-08 07:09:06,2.1,7,Wednesday,provisional: terminal-dependent support,False
+7507,2111,2023-03-08,train,1235,NE Walmart Supercenter,1,main_loop,1011005,2023-03-08 07:40:00,2023-03-08 07:43:15,3.25,7,Wednesday,provisional: terminal-dependent support,False
+7530,2111,2023-03-08,train,1234,NE Walmart Supercenter,0,main_loop,1011006,2023-03-08 08:07:00,2023-03-08 08:10:40,3.6666666666666665,8,Wednesday,provisional: terminal-dependent support,False
+7569,2111,2023-03-08,train,1235,NE Walmart Supercenter,1,main_loop,1011007,2023-03-08 08:40:00,2023-03-08 08:40:50,0.8333333333333334,8,Wednesday,provisional: terminal-dependent support,False
+7592,2111,2023-03-08,train,1234,NE Walmart Supercenter,0,main_loop,1011008,2023-03-08 09:07:00,2023-03-08 09:10:01,3.0166666666666666,9,Wednesday,provisional: terminal-dependent support,False
+7631,2111,2023-03-08,train,1235,NE Walmart Supercenter,1,main_loop,1011009,2023-03-08 09:40:00,2023-03-08 09:42:51,2.85,9,Wednesday,provisional: terminal-dependent support,False
+7654,2111,2023-03-08,train,1234,NE Walmart Supercenter,0,main_loop,1011012,2023-03-08 10:07:00,2023-03-08 10:08:33,1.55,10,Wednesday,provisional: terminal-dependent support,False
+7693,2111,2023-03-08,train,1235,NE Walmart Supercenter,1,main_loop,1011013,2023-03-08 10:40:00,2023-03-08 10:39:04,-0.9333333333333333,10,Wednesday,provisional: terminal-dependent support,False
+7716,2111,2023-03-08,train,1234,NE Walmart Supercenter,0,main_loop,1011016,2023-03-08 11:07:00,2023-03-08 11:11:05,4.083333333333333,11,Wednesday,provisional: terminal-dependent support,False
+7755,2111,2023-03-08,train,1235,NE Walmart Supercenter,1,main_loop,1011017,2023-03-08 11:40:00,2023-03-08 11:39:17,-0.7166666666666667,11,Wednesday,provisional: terminal-dependent support,False
+7778,2111,2023-03-08,train,1234,NE Walmart Supercenter,0,main_loop,1011020,2023-03-08 12:07:00,2023-03-08 12:12:48,5.8,12,Wednesday,provisional: terminal-dependent support,False
+7817,2111,2023-03-08,train,1235,NE Walmart Supercenter,1,main_loop,1011021,2023-03-08 12:40:00,2023-03-08 12:40:15,0.25,12,Wednesday,provisional: terminal-dependent support,False
+7840,2111,2023-03-08,train,1234,NE Walmart Supercenter,0,main_loop,1011024,2023-03-08 13:07:00,2023-03-08 13:07:43,0.7166666666666667,13,Wednesday,provisional: terminal-dependent support,False
+7879,2111,2023-03-08,train,1235,NE Walmart Supercenter,1,main_loop,1011025,2023-03-08 13:40:00,2023-03-08 13:41:00,1.0,13,Wednesday,provisional: terminal-dependent support,False
+7902,2111,2023-03-08,train,1234,NE Walmart Supercenter,0,main_loop,1011028,2023-03-08 14:07:00,2023-03-08 14:10:47,3.783333333333333,14,Wednesday,provisional: terminal-dependent support,False
+7941,2111,2023-03-08,train,1235,NE Walmart Supercenter,1,main_loop,1011029,2023-03-08 14:40:00,2023-03-08 14:40:00,0.0,14,Wednesday,provisional: terminal-dependent support,False
+7964,2111,2023-03-08,train,1234,NE Walmart Supercenter,0,main_loop,1011032,2023-03-08 15:07:00,2023-03-08 15:10:18,3.3,15,Wednesday,provisional: terminal-dependent support,False
+8003,2111,2023-03-08,train,1235,NE Walmart Supercenter,1,main_loop,1011033,2023-03-08 15:40:00,2023-03-08 15:44:08,4.133333333333334,15,Wednesday,provisional: terminal-dependent support,False
+8026,2111,2023-03-08,train,1234,NE Walmart Supercenter,0,main_loop,1011036,2023-03-08 16:07:00,2023-03-08 16:08:58,1.9666666666666666,16,Wednesday,provisional: terminal-dependent support,False
+8065,2111,2023-03-08,train,1235,NE Walmart Supercenter,1,main_loop,1011037,2023-03-08 16:40:00,2023-03-08 16:40:06,0.1,16,Wednesday,provisional: terminal-dependent support,False
+8088,2111,2023-03-08,train,1234,NE Walmart Supercenter,0,main_loop,1011040,2023-03-08 17:07:00,2023-03-08 17:12:16,5.266666666666667,17,Wednesday,provisional: terminal-dependent support,False
+8127,2111,2023-03-08,train,1235,NE Walmart Supercenter,1,main_loop,1011041,2023-03-08 17:40:00,2023-03-08 17:42:56,2.933333333333333,17,Wednesday,provisional: terminal-dependent support,False
+8150,2111,2023-03-08,train,1234,NE Walmart Supercenter,0,main_loop,1011042,2023-03-08 18:07:00,2023-03-08 18:09:39,2.65,18,Wednesday,provisional: terminal-dependent support,False
+8182,2111,2023-03-08,train,1235,NE Walmart Supercenter,1,main_loop,1011043,2023-03-08 18:40:00,2023-03-08 18:39:42,-0.3,18,Wednesday,provisional: terminal-dependent support,False
+8205,2111,2023-03-08,train,1234,NE Walmart Supercenter,0,main_loop,1011044,2023-03-08 19:07:00,2023-03-08 19:09:50,2.8333333333333335,19,Wednesday,provisional: terminal-dependent support,False
+8237,2111,2023-03-08,train,1235,NE Walmart Supercenter,1,main_loop,1011045,2023-03-08 19:40:00,2023-03-08 19:37:24,-2.6,19,Wednesday,provisional: terminal-dependent support,False
+6881,710,2023-03-08,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011010,2023-03-08 09:37:00,2023-03-08 09:36:32,-0.4666666666666667,9,Wednesday,provisional: unflagged non-terminal anchor support,False
+6890,710,2023-03-08,train,107,Health Department,0,health_dept_branch,1011010,2023-03-08 09:45:00,2023-03-08 09:42:21,-2.65,9,Wednesday,provisional: unflagged non-terminal anchor support,False
+6912,710,2023-03-08,train,107,Health Department,1,health_dept_branch,1011011,2023-03-08 10:05:00,2023-03-08 10:05:32,0.5333333333333333,10,Wednesday,provisional: unflagged non-terminal anchor support,False
+6920,710,2023-03-08,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011011,2023-03-08 10:10:00,2023-03-08 10:09:48,-0.2,10,Wednesday,provisional: unflagged non-terminal anchor support,False
+6943,710,2023-03-08,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011014,2023-03-08 10:37:00,2023-03-08 10:38:12,1.2,10,Wednesday,provisional: unflagged non-terminal anchor support,False
+6952,710,2023-03-08,train,107,Health Department,0,health_dept_branch,1011014,2023-03-08 10:45:00,2023-03-08 10:43:57,-1.05,10,Wednesday,provisional: unflagged non-terminal anchor support,False
+6974,710,2023-03-08,train,107,Health Department,1,health_dept_branch,1011015,2023-03-08 11:05:00,2023-03-08 11:05:25,0.4166666666666667,11,Wednesday,provisional: unflagged non-terminal anchor support,False
+6982,710,2023-03-08,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011015,2023-03-08 11:10:00,2023-03-08 11:10:53,0.8833333333333333,11,Wednesday,provisional: unflagged non-terminal anchor support,False
+7005,710,2023-03-08,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011018,2023-03-08 11:37:00,2023-03-08 11:37:31,0.5166666666666667,11,Wednesday,provisional: unflagged non-terminal anchor support,False
+7014,710,2023-03-08,train,107,Health Department,0,health_dept_branch,1011018,2023-03-08 11:45:00,2023-03-08 11:44:48,-0.2,11,Wednesday,provisional: unflagged non-terminal anchor support,False
+7036,710,2023-03-08,train,107,Health Department,1,health_dept_branch,1011019,2023-03-08 12:05:00,2023-03-08 12:05:37,0.6166666666666667,12,Wednesday,provisional: unflagged non-terminal anchor support,False
+7044,710,2023-03-08,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011019,2023-03-08 12:10:00,2023-03-08 12:10:11,0.18333333333333332,12,Wednesday,provisional: unflagged non-terminal anchor support,False
+7067,710,2023-03-08,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011022,2023-03-08 12:37:00,2023-03-08 12:37:17,0.2833333333333333,12,Wednesday,provisional: unflagged non-terminal anchor support,False
+7076,710,2023-03-08,train,107,Health Department,0,health_dept_branch,1011022,2023-03-08 12:45:00,2023-03-08 12:41:31,-3.4833333333333334,12,Wednesday,provisional: unflagged non-terminal anchor support,False
+7098,710,2023-03-08,train,107,Health Department,1,health_dept_branch,1011023,2023-03-08 13:05:00,2023-03-08 13:07:49,2.816666666666667,13,Wednesday,provisional: unflagged non-terminal anchor support,False
+7106,710,2023-03-08,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011023,2023-03-08 13:10:00,2023-03-08 13:12:37,2.6166666666666667,13,Wednesday,provisional: unflagged non-terminal anchor support,False
+7129,710,2023-03-08,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011026,2023-03-08 13:37:00,2023-03-08 13:39:07,2.1166666666666667,13,Wednesday,provisional: unflagged non-terminal anchor support,False
+7138,710,2023-03-08,train,107,Health Department,0,health_dept_branch,1011026,2023-03-08 13:45:00,2023-03-08 13:45:07,0.11666666666666667,13,Wednesday,provisional: unflagged non-terminal anchor support,False
+7160,710,2023-03-08,train,107,Health Department,1,health_dept_branch,1011027,2023-03-08 14:05:00,2023-03-08 14:06:04,1.0666666666666667,14,Wednesday,provisional: unflagged non-terminal anchor support,False
+7168,710,2023-03-08,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011027,2023-03-08 14:10:00,2023-03-08 14:14:14,4.233333333333333,14,Wednesday,provisional: unflagged non-terminal anchor support,False
+7191,710,2023-03-08,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011030,2023-03-08 14:37:00,2023-03-08 14:44:47,7.783333333333333,14,Wednesday,provisional: unflagged non-terminal anchor support,False
+7200,710,2023-03-08,train,107,Health Department,0,health_dept_branch,1011030,2023-03-08 14:45:00,2023-03-08 14:50:48,5.8,14,Wednesday,provisional: unflagged non-terminal anchor support,False
+7222,710,2023-03-08,train,107,Health Department,1,health_dept_branch,1011031,2023-03-08 15:05:00,2023-03-08 15:07:08,2.1333333333333333,15,Wednesday,provisional: unflagged non-terminal anchor support,False
+7230,710,2023-03-08,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011031,2023-03-08 15:10:00,2023-03-08 15:12:42,2.7,15,Wednesday,provisional: unflagged non-terminal anchor support,False
+7253,710,2023-03-08,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011034,2023-03-08 15:37:00,2023-03-08 15:42:16,5.266666666666667,15,Wednesday,provisional: terminal-dependent support,False
+7262,710,2023-03-08,train,107,Health Department,0,health_dept_branch,1011034,2023-03-08 15:45:00,2023-03-08 15:48:23,3.3833333333333333,15,Wednesday,provisional: terminal-dependent support,False
+7284,710,2023-03-08,train,107,Health Department,1,health_dept_branch,1011035,2023-03-08 16:05:00,2023-03-08 16:09:47,4.783333333333333,16,Wednesday,provisional: unflagged non-terminal anchor support,False
+7292,710,2023-03-08,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011035,2023-03-08 16:10:00,2023-03-08 16:15:40,5.666666666666667,16,Wednesday,provisional: unflagged non-terminal anchor support,True
+7315,710,2023-03-08,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011038,2023-03-08 16:37:00,2023-03-08 16:42:25,5.416666666666667,16,Wednesday,provisional: unflagged non-terminal anchor support,False
+7324,710,2023-03-08,train,107,Health Department,0,health_dept_branch,1011038,2023-03-08 16:45:00,2023-03-08 16:49:21,4.35,16,Wednesday,provisional: unflagged non-terminal anchor support,False
+7346,710,2023-03-08,train,107,Health Department,1,health_dept_branch,1011039,2023-03-08 17:05:00,2023-03-08 17:07:40,2.6666666666666665,17,Wednesday,provisional: unflagged non-terminal anchor support,False
+7354,710,2023-03-08,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011039,2023-03-08 17:10:00,2023-03-08 17:13:24,3.4,17,Wednesday,provisional: unflagged non-terminal anchor support,False
+8764,2111,2023-03-09,train,1235,NE Walmart Supercenter,1,main_loop,1011001,2023-03-09 05:40:00,2023-03-09 05:40:26,0.43333333333333335,5,Thursday,provisional: terminal-dependent support,False
+8787,2111,2023-03-09,train,1234,NE Walmart Supercenter,0,main_loop,1011002,2023-03-09 06:07:00,2023-03-09 06:11:14,4.233333333333333,6,Thursday,provisional: terminal-dependent support,False
+8826,2111,2023-03-09,train,1235,NE Walmart Supercenter,1,main_loop,1011003,2023-03-09 06:40:00,2023-03-09 06:40:50,0.8333333333333334,6,Thursday,provisional: terminal-dependent support,False
+8849,2111,2023-03-09,train,1234,NE Walmart Supercenter,0,main_loop,1011004,2023-03-09 07:07:00,2023-03-09 07:10:36,3.6,7,Thursday,provisional: terminal-dependent support,False
+8888,2111,2023-03-09,train,1235,NE Walmart Supercenter,1,main_loop,1011005,2023-03-09 07:40:00,2023-03-09 07:41:06,1.1,7,Thursday,provisional: terminal-dependent support,False
+8911,2111,2023-03-09,train,1234,NE Walmart Supercenter,0,main_loop,1011006,2023-03-09 08:07:00,2023-03-09 08:08:42,1.7,8,Thursday,provisional: terminal-dependent support,False
+8950,2111,2023-03-09,train,1235,NE Walmart Supercenter,1,main_loop,1011007,2023-03-09 08:40:00,2023-03-09 08:39:37,-0.38333333333333336,8,Thursday,provisional: terminal-dependent support,False
+8973,2111,2023-03-09,train,1234,NE Walmart Supercenter,0,main_loop,1011008,2023-03-09 09:07:00,2023-03-09 09:11:08,4.133333333333334,9,Thursday,provisional: terminal-dependent support,False
+9012,2111,2023-03-09,train,1235,NE Walmart Supercenter,1,main_loop,1011009,2023-03-09 09:40:00,2023-03-09 09:39:46,-0.23333333333333334,9,Thursday,provisional: terminal-dependent support,False
+9035,2111,2023-03-09,train,1234,NE Walmart Supercenter,0,main_loop,1011012,2023-03-09 10:07:00,2023-03-09 10:09:31,2.5166666666666666,10,Thursday,provisional: terminal-dependent support,False
+9074,2111,2023-03-09,train,1235,NE Walmart Supercenter,1,main_loop,1011013,2023-03-09 10:40:00,2023-03-09 10:40:26,0.43333333333333335,10,Thursday,provisional: terminal-dependent support,False
+9097,2111,2023-03-09,train,1234,NE Walmart Supercenter,0,main_loop,1011016,2023-03-09 11:07:00,2023-03-09 11:11:31,4.516666666666667,11,Thursday,provisional: terminal-dependent support,False
+9136,2111,2023-03-09,train,1235,NE Walmart Supercenter,1,main_loop,1011017,2023-03-09 11:40:00,2023-03-09 11:42:13,2.216666666666667,11,Thursday,provisional: terminal-dependent support,False
+9159,2111,2023-03-09,train,1234,NE Walmart Supercenter,0,main_loop,1011020,2023-03-09 12:07:00,2023-03-09 12:11:27,4.45,12,Thursday,provisional: terminal-dependent support,False
+9198,2111,2023-03-09,train,1235,NE Walmart Supercenter,1,main_loop,1011021,2023-03-09 12:40:00,2023-03-09 12:40:29,0.48333333333333334,12,Thursday,provisional: terminal-dependent support,False
+9221,2111,2023-03-09,train,1234,NE Walmart Supercenter,0,main_loop,1011024,2023-03-09 13:07:00,2023-03-09 13:10:50,3.8333333333333335,13,Thursday,provisional: terminal-dependent support,False
+9260,2111,2023-03-09,train,1235,NE Walmart Supercenter,1,main_loop,1011025,2023-03-09 13:40:00,2023-03-09 13:39:58,-0.03333333333333333,13,Thursday,provisional: terminal-dependent support,False
+9283,2111,2023-03-09,train,1234,NE Walmart Supercenter,0,main_loop,1011028,2023-03-09 14:07:00,2023-03-09 14:09:23,2.3833333333333333,14,Thursday,provisional: terminal-dependent support,False
+9322,2111,2023-03-09,train,1235,NE Walmart Supercenter,1,main_loop,1011029,2023-03-09 14:40:00,2023-03-09 14:38:14,-1.7666666666666666,14,Thursday,provisional: terminal-dependent support,False
+9345,2111,2023-03-09,train,1234,NE Walmart Supercenter,0,main_loop,1011032,2023-03-09 15:07:00,2023-03-09 15:10:35,3.5833333333333335,15,Thursday,provisional: terminal-dependent support,False
+9384,2111,2023-03-09,train,1235,NE Walmart Supercenter,1,main_loop,1011033,2023-03-09 15:40:00,2023-03-09 15:41:24,1.4,15,Thursday,provisional: terminal-dependent support,False
+9407,2111,2023-03-09,train,1234,NE Walmart Supercenter,0,main_loop,1011036,2023-03-09 16:07:00,2023-03-09 16:08:02,1.0333333333333334,16,Thursday,provisional: terminal-dependent support,False
+9446,2111,2023-03-09,train,1235,NE Walmart Supercenter,1,main_loop,1011037,2023-03-09 16:40:00,2023-03-09 16:44:55,4.916666666666667,16,Thursday,provisional: terminal-dependent support,False
+9469,2111,2023-03-09,train,1234,NE Walmart Supercenter,0,main_loop,1011040,2023-03-09 17:07:00,2023-03-09 17:12:21,5.35,17,Thursday,provisional: terminal-dependent support,False
+9508,2111,2023-03-09,train,1235,NE Walmart Supercenter,1,main_loop,1011041,2023-03-09 17:40:00,2023-03-09 17:41:48,1.8,17,Thursday,provisional: terminal-dependent support,False
+9531,2111,2023-03-09,train,1234,NE Walmart Supercenter,0,main_loop,1011042,2023-03-09 18:07:00,2023-03-09 18:09:40,2.6666666666666665,18,Thursday,provisional: terminal-dependent support,False
+9563,2111,2023-03-09,train,1235,NE Walmart Supercenter,1,main_loop,1011043,2023-03-09 18:40:00,2023-03-09 18:40:13,0.21666666666666667,18,Thursday,provisional: terminal-dependent support,False
+9586,2111,2023-03-09,train,1234,NE Walmart Supercenter,0,main_loop,1011044,2023-03-09 19:07:00,2023-03-09 19:11:24,4.4,19,Thursday,provisional: terminal-dependent support,False
+9618,2111,2023-03-09,train,1235,NE Walmart Supercenter,1,main_loop,1011045,2023-03-09 19:40:00,2023-03-09 19:36:40,-3.3333333333333335,19,Thursday,provisional: terminal-dependent support,True
+8260,710,2023-03-09,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011010,2023-03-09 09:37:00,2023-03-09 09:36:31,-0.48333333333333334,9,Thursday,provisional: unflagged non-terminal anchor support,False
+8269,710,2023-03-09,train,107,Health Department,0,health_dept_branch,1011010,2023-03-09 09:45:00,2023-03-09 09:40:49,-4.183333333333334,9,Thursday,provisional: unflagged non-terminal anchor support,False
+8291,710,2023-03-09,train,107,Health Department,1,health_dept_branch,1011011,2023-03-09 10:05:00,2023-03-09 10:05:03,0.05,10,Thursday,provisional: unflagged non-terminal anchor support,False
+8299,710,2023-03-09,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011011,2023-03-09 10:10:00,2023-03-09 10:09:57,-0.05,10,Thursday,provisional: unflagged non-terminal anchor support,False
+8322,710,2023-03-09,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011014,2023-03-09 10:37:00,2023-03-09 10:38:33,1.55,10,Thursday,provisional: unflagged non-terminal anchor support,False
+8331,710,2023-03-09,train,107,Health Department,0,health_dept_branch,1011014,2023-03-09 10:45:00,2023-03-09 10:46:21,1.35,10,Thursday,provisional: unflagged non-terminal anchor support,False
+8353,710,2023-03-09,train,107,Health Department,1,health_dept_branch,1011015,2023-03-09 11:05:00,2023-03-09 11:06:07,1.1166666666666667,11,Thursday,provisional: unflagged non-terminal anchor support,False
+8361,710,2023-03-09,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011015,2023-03-09 11:10:00,2023-03-09 11:10:46,0.7666666666666667,11,Thursday,provisional: unflagged non-terminal anchor support,False
+8384,710,2023-03-09,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011018,2023-03-09 11:37:00,2023-03-09 11:37:19,0.31666666666666665,11,Thursday,provisional: unflagged non-terminal anchor support,False
+8393,710,2023-03-09,train,107,Health Department,0,health_dept_branch,1011018,2023-03-09 11:45:00,2023-03-09 11:41:59,-3.0166666666666666,11,Thursday,provisional: unflagged non-terminal anchor support,False
+8415,710,2023-03-09,train,107,Health Department,1,health_dept_branch,1011019,2023-03-09 12:05:00,2023-03-09 12:05:50,0.8333333333333334,12,Thursday,provisional: unflagged non-terminal anchor support,False
+8423,710,2023-03-09,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011019,2023-03-09 12:10:00,2023-03-09 12:10:41,0.6833333333333333,12,Thursday,provisional: unflagged non-terminal anchor support,False
+8446,710,2023-03-09,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011022,2023-03-09 12:37:00,2023-03-09 12:37:23,0.38333333333333336,12,Thursday,provisional: unflagged non-terminal anchor support,False
+8455,710,2023-03-09,train,107,Health Department,0,health_dept_branch,1011022,2023-03-09 12:45:00,2023-03-09 12:46:19,1.3166666666666667,12,Thursday,provisional: unflagged non-terminal anchor support,False
+8477,710,2023-03-09,train,107,Health Department,1,health_dept_branch,1011023,2023-03-09 13:05:00,2023-03-09 13:07:14,2.2333333333333334,13,Thursday,provisional: unflagged non-terminal anchor support,False
+8485,710,2023-03-09,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011023,2023-03-09 13:10:00,2023-03-09 13:11:43,1.7166666666666666,13,Thursday,provisional: unflagged non-terminal anchor support,False
+8508,710,2023-03-09,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011026,2023-03-09 13:37:00,2023-03-09 13:37:44,0.7333333333333333,13,Thursday,provisional: unflagged non-terminal anchor support,False
+8517,710,2023-03-09,train,107,Health Department,0,health_dept_branch,1011026,2023-03-09 13:45:00,2023-03-09 13:42:53,-2.1166666666666667,13,Thursday,provisional: unflagged non-terminal anchor support,False
+8539,710,2023-03-09,train,107,Health Department,1,health_dept_branch,1011027,2023-03-09 14:05:00,2023-03-09 14:08:59,3.9833333333333334,14,Thursday,provisional: unflagged non-terminal anchor support,False
+8547,710,2023-03-09,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011027,2023-03-09 14:10:00,2023-03-09 14:14:37,4.616666666666666,14,Thursday,provisional: unflagged non-terminal anchor support,False
+8570,710,2023-03-09,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011030,2023-03-09 14:37:00,2023-03-09 14:38:07,1.1166666666666667,14,Thursday,provisional: unflagged non-terminal anchor support,False
+8579,710,2023-03-09,train,107,Health Department,0,health_dept_branch,1011030,2023-03-09 14:45:00,2023-03-09 14:42:57,-2.05,14,Thursday,provisional: unflagged non-terminal anchor support,False
+8601,710,2023-03-09,train,107,Health Department,1,health_dept_branch,1011031,2023-03-09 15:05:00,2023-03-09 15:07:17,2.283333333333333,15,Thursday,provisional: terminal-dependent support,False
+8611,710,2023-03-09,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011031,2023-03-09 15:10:00,2023-03-09 15:12:29,2.4833333333333334,15,Thursday,provisional: terminal-dependent support,False
+8634,710,2023-03-09,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011034,2023-03-09 15:37:00,2023-03-09 15:37:51,0.85,15,Thursday,provisional: unflagged non-terminal anchor support,False
+8643,710,2023-03-09,train,107,Health Department,0,health_dept_branch,1011034,2023-03-09 15:45:00,2023-03-09 15:43:34,-1.4333333333333333,15,Thursday,provisional: unflagged non-terminal anchor support,False
+8665,710,2023-03-09,train,107,Health Department,1,health_dept_branch,1011035,2023-03-09 16:05:00,2023-03-09 16:05:39,0.65,16,Thursday,provisional: unflagged non-terminal anchor support,False
+8673,710,2023-03-09,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011035,2023-03-09 16:10:00,2023-03-09 16:11:56,1.9333333333333333,16,Thursday,provisional: unflagged non-terminal anchor support,False
+8696,710,2023-03-09,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011038,2023-03-09 16:37:00,2023-03-09 16:38:11,1.1833333333333333,16,Thursday,provisional: unflagged non-terminal anchor support,False
+8705,710,2023-03-09,train,107,Health Department,0,health_dept_branch,1011038,2023-03-09 16:45:00,2023-03-09 16:43:29,-1.5166666666666666,16,Thursday,provisional: unflagged non-terminal anchor support,False
+8727,710,2023-03-09,train,107,Health Department,1,health_dept_branch,1011039,2023-03-09 17:05:00,2023-03-09 17:05:28,0.4666666666666667,17,Thursday,provisional: unflagged non-terminal anchor support,False
+8735,710,2023-03-09,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011039,2023-03-09 17:10:00,2023-03-09 17:10:16,0.26666666666666666,17,Thursday,provisional: unflagged non-terminal anchor support,False
+10146,2111,2023-03-10,train,1235,NE Walmart Supercenter,1,main_loop,1011001,2023-03-10 05:40:00,2023-03-10 05:40:21,0.35,5,Friday,provisional: terminal-dependent support,False
+10169,2111,2023-03-10,train,1234,NE Walmart Supercenter,0,main_loop,1011002,2023-03-10 06:07:00,2023-03-10 06:11:11,4.183333333333334,6,Friday,provisional: terminal-dependent support,False
+10208,2111,2023-03-10,train,1235,NE Walmart Supercenter,1,main_loop,1011003,2023-03-10 06:40:00,2023-03-10 06:40:16,0.26666666666666666,6,Friday,provisional: terminal-dependent support,False
+10231,2111,2023-03-10,train,1234,NE Walmart Supercenter,0,main_loop,1011004,2023-03-10 07:07:00,2023-03-10 07:08:38,1.6333333333333333,7,Friday,provisional: terminal-dependent support,False
+10270,2111,2023-03-10,train,1235,NE Walmart Supercenter,1,main_loop,1011005,2023-03-10 07:40:00,2023-03-10 07:41:49,1.8166666666666667,7,Friday,provisional: terminal-dependent support,False
+10293,2111,2023-03-10,train,1234,NE Walmart Supercenter,0,main_loop,1011006,2023-03-10 08:07:00,2023-03-10 08:08:45,1.75,8,Friday,provisional: terminal-dependent support,False
+10332,2111,2023-03-10,train,1235,NE Walmart Supercenter,1,main_loop,1011007,2023-03-10 08:40:00,2023-03-10 08:39:50,-0.16666666666666666,8,Friday,provisional: terminal-dependent support,False
+10355,2111,2023-03-10,train,1234,NE Walmart Supercenter,0,main_loop,1011008,2023-03-10 09:07:00,2023-03-10 09:09:37,2.6166666666666667,9,Friday,provisional: terminal-dependent support,False
+10394,2111,2023-03-10,train,1235,NE Walmart Supercenter,1,main_loop,1011009,2023-03-10 09:40:00,2023-03-10 09:40:12,0.2,9,Friday,provisional: terminal-dependent support,False
+10417,2111,2023-03-10,train,1234,NE Walmart Supercenter,0,main_loop,1011012,2023-03-10 10:07:00,2023-03-10 10:08:29,1.4833333333333334,10,Friday,provisional: terminal-dependent support,False
+10456,2111,2023-03-10,train,1235,NE Walmart Supercenter,1,main_loop,1011013,2023-03-10 10:40:00,2023-03-10 10:39:10,-0.8333333333333334,10,Friday,provisional: terminal-dependent support,False
+10479,2111,2023-03-10,train,1234,NE Walmart Supercenter,0,main_loop,1011016,2023-03-10 11:07:00,2023-03-10 11:12:26,5.433333333333334,11,Friday,provisional: terminal-dependent support,False
+10518,2111,2023-03-10,train,1235,NE Walmart Supercenter,1,main_loop,1011017,2023-03-10 11:40:00,2023-03-10 11:37:44,-2.2666666666666666,11,Friday,provisional: terminal-dependent support,False
+10541,2111,2023-03-10,train,1234,NE Walmart Supercenter,0,main_loop,1011020,2023-03-10 12:07:00,2023-03-10 12:12:23,5.383333333333334,12,Friday,provisional: terminal-dependent support,False
+10580,2111,2023-03-10,train,1235,NE Walmart Supercenter,1,main_loop,1011021,2023-03-10 12:40:00,2023-03-10 12:39:48,-0.2,12,Friday,provisional: terminal-dependent support,False
+10603,2111,2023-03-10,train,1234,NE Walmart Supercenter,0,main_loop,1011024,2023-03-10 13:07:00,2023-03-10 13:09:11,2.183333333333333,13,Friday,provisional: terminal-dependent support,False
+10642,2111,2023-03-10,train,1235,NE Walmart Supercenter,1,main_loop,1011025,2023-03-10 13:40:00,2023-03-10 13:41:18,1.3,13,Friday,provisional: terminal-dependent support,False
+10665,2111,2023-03-10,train,1234,NE Walmart Supercenter,0,main_loop,1011028,2023-03-10 14:07:00,2023-03-10 14:07:57,0.95,14,Friday,provisional: terminal-dependent support,False
+10704,2111,2023-03-10,train,1235,NE Walmart Supercenter,1,main_loop,1011029,2023-03-10 14:40:00,2023-03-10 14:43:10,3.1666666666666665,14,Friday,provisional: terminal-dependent support,False
+10728,2111,2023-03-10,train,1234,NE Walmart Supercenter,0,main_loop,1011032,2023-03-10 15:07:00,2023-03-10 15:10:13,3.216666666666667,15,Friday,provisional: terminal-dependent support,False
+10767,2111,2023-03-10,train,1235,NE Walmart Supercenter,1,main_loop,1011033,2023-03-10 15:40:00,2023-03-10 15:41:26,1.4333333333333333,15,Friday,provisional: terminal-dependent support,False
+10790,2111,2023-03-10,train,1234,NE Walmart Supercenter,0,main_loop,1011036,2023-03-10 16:07:00,2023-03-10 16:10:18,3.3,16,Friday,provisional: terminal-dependent support,False
+10829,2111,2023-03-10,train,1235,NE Walmart Supercenter,1,main_loop,1011037,2023-03-10 16:40:00,2023-03-10 16:40:55,0.9166666666666666,16,Friday,provisional: terminal-dependent support,False
+10852,2111,2023-03-10,train,1234,NE Walmart Supercenter,0,main_loop,1011040,2023-03-10 17:07:00,2023-03-10 17:12:07,5.116666666666666,17,Friday,provisional: terminal-dependent support,False
+10891,2111,2023-03-10,train,1235,NE Walmart Supercenter,1,main_loop,1011041,2023-03-10 17:40:00,2023-03-10 17:41:46,1.7666666666666666,17,Friday,provisional: terminal-dependent support,False
+10914,2111,2023-03-10,train,1234,NE Walmart Supercenter,0,main_loop,1011042,2023-03-10 18:07:00,2023-03-10 18:09:56,2.933333333333333,18,Friday,provisional: terminal-dependent support,False
+10946,2111,2023-03-10,train,1235,NE Walmart Supercenter,1,main_loop,1011043,2023-03-10 18:40:00,2023-03-10 18:38:49,-1.1833333333333333,18,Friday,provisional: terminal-dependent support,False
+10969,2111,2023-03-10,train,1234,NE Walmart Supercenter,0,main_loop,1011044,2023-03-10 19:07:00,2023-03-10 19:13:12,6.2,19,Friday,provisional: terminal-dependent support,False
+11001,2111,2023-03-10,train,1235,NE Walmart Supercenter,1,main_loop,1011045,2023-03-10 19:40:00,2023-03-10 19:38:20,-1.6666666666666667,19,Friday,provisional: terminal-dependent support,False
+9641,710,2023-03-10,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011010,2023-03-10 09:37:00,2023-03-10 09:37:59,0.9833333333333333,9,Friday,provisional: unflagged non-terminal anchor support,False
+9650,710,2023-03-10,train,107,Health Department,0,health_dept_branch,1011010,2023-03-10 09:45:00,2023-03-10 09:44:05,-0.9166666666666666,9,Friday,provisional: unflagged non-terminal anchor support,False
+9672,710,2023-03-10,train,107,Health Department,1,health_dept_branch,1011011,2023-03-10 10:05:00,2023-03-10 10:05:53,0.8833333333333333,10,Friday,provisional: unflagged non-terminal anchor support,False
+9680,710,2023-03-10,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011011,2023-03-10 10:10:00,2023-03-10 10:12:53,2.8833333333333333,10,Friday,provisional: unflagged non-terminal anchor support,False
+9703,710,2023-03-10,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011014,2023-03-10 10:37:00,2023-03-10 10:37:59,0.9833333333333333,10,Friday,provisional: unflagged non-terminal anchor support,False
+9712,710,2023-03-10,train,107,Health Department,0,health_dept_branch,1011014,2023-03-10 10:45:00,2023-03-10 10:42:12,-2.8,10,Friday,provisional: unflagged non-terminal anchor support,False
+9734,710,2023-03-10,train,107,Health Department,1,health_dept_branch,1011015,2023-03-10 11:05:00,2023-03-10 11:06:58,1.9666666666666666,11,Friday,provisional: unflagged non-terminal anchor support,False
+9742,710,2023-03-10,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011015,2023-03-10 11:10:00,2023-03-10 11:12:07,2.1166666666666667,11,Friday,provisional: unflagged non-terminal anchor support,False
+9765,710,2023-03-10,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011018,2023-03-10 11:37:00,2023-03-10 11:39:02,2.033333333333333,11,Friday,provisional: unflagged non-terminal anchor support,False
+9774,710,2023-03-10,train,107,Health Department,0,health_dept_branch,1011018,2023-03-10 11:45:00,2023-03-10 11:44:01,-0.9833333333333333,11,Friday,provisional: unflagged non-terminal anchor support,False
+9796,710,2023-03-10,train,107,Health Department,1,health_dept_branch,1011019,2023-03-10 12:05:00,2023-03-10 12:04:51,-0.15,12,Friday,provisional: unflagged non-terminal anchor support,False
+9804,710,2023-03-10,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011019,2023-03-10 12:10:00,2023-03-10 12:10:38,0.6333333333333333,12,Friday,provisional: unflagged non-terminal anchor support,False
+9827,710,2023-03-10,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011022,2023-03-10 12:37:00,2023-03-10 12:37:24,0.4,12,Friday,provisional: unflagged non-terminal anchor support,False
+9836,710,2023-03-10,train,107,Health Department,0,health_dept_branch,1011022,2023-03-10 12:45:00,2023-03-10 12:42:47,-2.216666666666667,12,Friday,provisional: unflagged non-terminal anchor support,False
+9858,710,2023-03-10,train,107,Health Department,1,health_dept_branch,1011023,2023-03-10 13:05:00,2023-03-10 13:04:52,-0.13333333333333333,13,Friday,provisional: unflagged non-terminal anchor support,False
+9866,710,2023-03-10,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011023,2023-03-10 13:10:00,2023-03-10 13:10:05,0.08333333333333333,13,Friday,provisional: unflagged non-terminal anchor support,False
+9889,710,2023-03-10,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011026,2023-03-10 13:37:00,2023-03-10 13:37:29,0.48333333333333334,13,Friday,provisional: unflagged non-terminal anchor support,False
+9898,710,2023-03-10,train,107,Health Department,0,health_dept_branch,1011026,2023-03-10 13:45:00,2023-03-10 13:43:05,-1.9166666666666667,13,Friday,provisional: unflagged non-terminal anchor support,False
+9920,710,2023-03-10,train,107,Health Department,1,health_dept_branch,1011027,2023-03-10 14:05:00,2023-03-10 14:08:23,3.3833333333333333,14,Friday,provisional: unflagged non-terminal anchor support,False
+9928,710,2023-03-10,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011027,2023-03-10 14:10:00,2023-03-10 14:13:05,3.0833333333333335,14,Friday,provisional: unflagged non-terminal anchor support,False
+9954,710,2023-03-10,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011030,2023-03-10 14:37:00,2023-03-10 14:38:27,1.45,14,Friday,provisional: unflagged non-terminal anchor support,False
+9963,710,2023-03-10,train,107,Health Department,0,health_dept_branch,1011030,2023-03-10 14:45:00,2023-03-10 14:44:22,-0.6333333333333333,14,Friday,provisional: unflagged non-terminal anchor support,False
+9985,710,2023-03-10,train,107,Health Department,1,health_dept_branch,1011031,2023-03-10 15:05:00,2023-03-10 15:07:57,2.95,15,Friday,provisional: unflagged non-terminal anchor support,False
+9993,710,2023-03-10,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011031,2023-03-10 15:10:00,2023-03-10 15:13:49,3.816666666666667,15,Friday,provisional: unflagged non-terminal anchor support,False
+10016,710,2023-03-10,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011034,2023-03-10 15:37:00,2023-03-10 15:37:50,0.8333333333333334,15,Friday,provisional: unflagged non-terminal anchor support,False
+10025,710,2023-03-10,train,107,Health Department,0,health_dept_branch,1011034,2023-03-10 15:45:00,2023-03-10 15:45:13,0.21666666666666667,15,Friday,provisional: unflagged non-terminal anchor support,False
+10047,710,2023-03-10,train,107,Health Department,1,health_dept_branch,1011035,2023-03-10 16:05:00,2023-03-10 16:05:08,0.13333333333333333,16,Friday,provisional: unflagged non-terminal anchor support,False
+10055,710,2023-03-10,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011035,2023-03-10 16:10:00,2023-03-10 16:10:02,0.03333333333333333,16,Friday,provisional: unflagged non-terminal anchor support,False
+10078,710,2023-03-10,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011038,2023-03-10 16:37:00,2023-03-10 16:39:55,2.9166666666666665,16,Friday,provisional: unflagged non-terminal anchor support,False
+10087,710,2023-03-10,train,107,Health Department,0,health_dept_branch,1011038,2023-03-10 16:45:00,2023-03-10 16:45:10,0.16666666666666666,16,Friday,provisional: unflagged non-terminal anchor support,False
+10109,710,2023-03-10,train,107,Health Department,1,health_dept_branch,1011039,2023-03-10 17:05:00,2023-03-10 17:05:00,0.0,17,Friday,provisional: unflagged non-terminal anchor support,False
+10117,710,2023-03-10,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011039,2023-03-10 17:10:00,2023-03-10 17:10:10,0.16666666666666666,17,Friday,provisional: unflagged non-terminal anchor support,False
+11526,2111,2023-03-13,train,1235,NE Walmart Supercenter,1,main_loop,1011001,2023-03-13 05:40:00,2023-03-13 05:40:45,0.75,5,Monday,provisional: terminal-dependent support,False
+11549,2111,2023-03-13,train,1234,NE Walmart Supercenter,0,main_loop,1011002,2023-03-13 06:07:00,2023-03-13 06:11:04,4.066666666666666,6,Monday,provisional: terminal-dependent support,False
+11588,2111,2023-03-13,train,1235,NE Walmart Supercenter,1,main_loop,1011003,2023-03-13 06:40:00,2023-03-13 06:44:57,4.95,6,Monday,provisional: terminal-dependent support,False
+11611,2111,2023-03-13,train,1234,NE Walmart Supercenter,0,main_loop,1011004,2023-03-13 07:07:00,2023-03-13 07:10:39,3.65,7,Monday,provisional: terminal-dependent support,False
+11650,2111,2023-03-13,train,1235,NE Walmart Supercenter,1,main_loop,1011005,2023-03-13 07:40:00,2023-03-13 07:43:53,3.8833333333333333,7,Monday,provisional: terminal-dependent support,False
+11673,2111,2023-03-13,train,1234,NE Walmart Supercenter,0,main_loop,1011006,2023-03-13 08:07:00,2023-03-13 08:10:33,3.55,8,Monday,provisional: terminal-dependent support,False
+11712,2111,2023-03-13,train,1235,NE Walmart Supercenter,1,main_loop,1011007,2023-03-13 08:40:00,2023-03-13 08:41:52,1.8666666666666667,8,Monday,provisional: terminal-dependent support,False
+11735,2111,2023-03-13,train,1234,NE Walmart Supercenter,0,main_loop,1011008,2023-03-13 09:07:00,2023-03-13 09:08:06,1.1,9,Monday,provisional: terminal-dependent support,False
+11774,2111,2023-03-13,train,1235,NE Walmart Supercenter,1,main_loop,1011009,2023-03-13 09:40:00,2023-03-13 09:41:56,1.9333333333333333,9,Monday,provisional: terminal-dependent support,False
+11797,2111,2023-03-13,train,1234,NE Walmart Supercenter,0,main_loop,1011012,2023-03-13 10:07:00,2023-03-13 10:09:41,2.683333333333333,10,Monday,provisional: terminal-dependent support,False
+11836,2111,2023-03-13,train,1235,NE Walmart Supercenter,1,main_loop,1011013,2023-03-13 10:40:00,2023-03-13 10:41:18,1.3,10,Monday,provisional: terminal-dependent support,False
+11859,2111,2023-03-13,train,1234,NE Walmart Supercenter,0,main_loop,1011016,2023-03-13 11:07:00,2023-03-13 11:13:02,6.033333333333333,11,Monday,provisional: terminal-dependent support,False
+11898,2111,2023-03-13,train,1235,NE Walmart Supercenter,1,main_loop,1011017,2023-03-13 11:40:00,2023-03-13 11:41:33,1.55,11,Monday,provisional: terminal-dependent support,False
+11921,2111,2023-03-13,train,1234,NE Walmart Supercenter,0,main_loop,1011020,2023-03-13 12:07:00,2023-03-13 12:07:22,0.36666666666666664,12,Monday,provisional: terminal-dependent support,False
+11960,2111,2023-03-13,train,1235,NE Walmart Supercenter,1,main_loop,1011021,2023-03-13 12:40:00,2023-03-13 12:41:41,1.6833333333333333,12,Monday,provisional: terminal-dependent support,False
+11983,2111,2023-03-13,train,1234,NE Walmart Supercenter,0,main_loop,1011024,2023-03-13 13:07:00,2023-03-13 13:12:20,5.333333333333333,13,Monday,provisional: terminal-dependent support,False
+12022,2111,2023-03-13,train,1235,NE Walmart Supercenter,1,main_loop,1011025,2023-03-13 13:40:00,2023-03-13 13:40:05,0.08333333333333333,13,Monday,provisional: terminal-dependent support,False
+12045,2111,2023-03-13,train,1234,NE Walmart Supercenter,0,main_loop,1011028,2023-03-13 14:07:00,2023-03-13 14:07:26,0.43333333333333335,14,Monday,provisional: terminal-dependent support,False
+12084,2111,2023-03-13,train,1235,NE Walmart Supercenter,1,main_loop,1011029,2023-03-13 14:40:00,2023-03-13 14:39:45,-0.25,14,Monday,provisional: terminal-dependent support,False
+12108,2111,2023-03-13,train,1234,NE Walmart Supercenter,0,main_loop,1011032,2023-03-13 15:07:00,2023-03-13 15:08:03,1.05,15,Monday,provisional: terminal-dependent support,False
+12147,2111,2023-03-13,train,1235,NE Walmart Supercenter,1,main_loop,1011033,2023-03-13 15:40:00,2023-03-13 15:40:43,0.7166666666666667,15,Monday,provisional: terminal-dependent support,False
+12170,2111,2023-03-13,train,1234,NE Walmart Supercenter,0,main_loop,1011036,2023-03-13 16:07:00,2023-03-13 16:07:55,0.9166666666666666,16,Monday,provisional: terminal-dependent support,False
+12209,2111,2023-03-13,train,1235,NE Walmart Supercenter,1,main_loop,1011037,2023-03-13 16:40:00,2023-03-13 16:39:48,-0.2,16,Monday,provisional: terminal-dependent support,False
+12232,2111,2023-03-13,train,1234,NE Walmart Supercenter,0,main_loop,1011040,2023-03-13 17:07:00,2023-03-13 17:10:14,3.2333333333333334,17,Monday,provisional: terminal-dependent support,False
+12271,2111,2023-03-13,train,1235,NE Walmart Supercenter,1,main_loop,1011041,2023-03-13 17:40:00,2023-03-13 17:39:32,-0.4666666666666667,17,Monday,provisional: terminal-dependent support,False
+12294,2111,2023-03-13,train,1234,NE Walmart Supercenter,0,main_loop,1011042,2023-03-13 18:07:00,2023-03-13 18:08:12,1.2,18,Monday,provisional: terminal-dependent support,False
+12326,2111,2023-03-13,train,1235,NE Walmart Supercenter,1,main_loop,1011043,2023-03-13 18:40:00,2023-03-13 18:36:58,-3.033333333333333,18,Monday,provisional: terminal-dependent support,False
+12339,2111,2023-03-13,train,1234,NE Walmart Supercenter,0,main_loop,1011044,2023-03-13 19:07:00,2023-03-13 19:11:13,4.216666666666667,19,Monday,provisional: terminal-dependent support,False
+12370,2111,2023-03-13,train,1235,NE Walmart Supercenter,1,main_loop,1011045,2023-03-13 19:40:00,2023-03-13 19:36:53,-3.1166666666666667,19,Monday,provisional: terminal-dependent support,False
+11024,710,2023-03-13,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011010,2023-03-13 09:37:00,2023-03-13 09:38:46,1.7666666666666666,9,Monday,provisional: unflagged non-terminal anchor support,False
+11033,710,2023-03-13,train,107,Health Department,0,health_dept_branch,1011010,2023-03-13 09:45:00,2023-03-13 09:43:35,-1.4166666666666667,9,Monday,provisional: unflagged non-terminal anchor support,False
+11055,710,2023-03-13,train,107,Health Department,1,health_dept_branch,1011011,2023-03-13 10:05:00,2023-03-13 10:07:11,2.183333333333333,10,Monday,provisional: unflagged non-terminal anchor support,False
+11063,710,2023-03-13,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011011,2023-03-13 10:10:00,2023-03-13 10:13:31,3.5166666666666666,10,Monday,provisional: unflagged non-terminal anchor support,False
+11086,710,2023-03-13,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011014,2023-03-13 10:37:00,2023-03-13 10:39:41,2.683333333333333,10,Monday,provisional: unflagged non-terminal anchor support,False
+11095,710,2023-03-13,train,107,Health Department,0,health_dept_branch,1011014,2023-03-13 10:45:00,2023-03-13 10:45:11,0.18333333333333332,10,Monday,provisional: unflagged non-terminal anchor support,False
+11117,710,2023-03-13,train,107,Health Department,1,health_dept_branch,1011015,2023-03-13 11:05:00,2023-03-13 11:06:16,1.2666666666666666,11,Monday,provisional: unflagged non-terminal anchor support,False
+11125,710,2023-03-13,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011015,2023-03-13 11:10:00,2023-03-13 11:12:00,2.0,11,Monday,provisional: unflagged non-terminal anchor support,False
+11148,710,2023-03-13,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011018,2023-03-13 11:37:00,2023-03-13 11:39:20,2.3333333333333335,11,Monday,provisional: unflagged non-terminal anchor support,False
+11157,710,2023-03-13,train,107,Health Department,0,health_dept_branch,1011018,2023-03-13 11:45:00,2023-03-13 11:44:27,-0.55,11,Monday,provisional: unflagged non-terminal anchor support,False
+11179,710,2023-03-13,train,107,Health Department,1,health_dept_branch,1011019,2023-03-13 12:05:00,2023-03-13 12:07:46,2.7666666666666666,12,Monday,provisional: unflagged non-terminal anchor support,False
+11187,710,2023-03-13,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011019,2023-03-13 12:10:00,2023-03-13 12:13:40,3.6666666666666665,12,Monday,provisional: unflagged non-terminal anchor support,False
+11210,710,2023-03-13,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011022,2023-03-13 12:37:00,2023-03-13 12:37:18,0.3,12,Monday,provisional: unflagged non-terminal anchor support,False
+11219,710,2023-03-13,train,107,Health Department,0,health_dept_branch,1011022,2023-03-13 12:45:00,2023-03-13 12:41:43,-3.283333333333333,12,Monday,provisional: unflagged non-terminal anchor support,False
+11241,710,2023-03-13,train,107,Health Department,1,health_dept_branch,1011023,2023-03-13 13:05:00,2023-03-13 13:05:29,0.48333333333333334,13,Monday,provisional: unflagged non-terminal anchor support,False
+11249,710,2023-03-13,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011023,2023-03-13 13:10:00,2023-03-13 13:10:50,0.8333333333333334,13,Monday,provisional: unflagged non-terminal anchor support,False
+11272,710,2023-03-13,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011026,2023-03-13 13:37:00,2023-03-13 13:36:23,-0.6166666666666667,13,Monday,provisional: unflagged non-terminal anchor support,False
+11281,710,2023-03-13,train,107,Health Department,0,health_dept_branch,1011026,2023-03-13 13:45:00,2023-03-13 13:41:29,-3.5166666666666666,13,Monday,provisional: unflagged non-terminal anchor support,False
+11303,710,2023-03-13,train,107,Health Department,1,health_dept_branch,1011027,2023-03-13 14:05:00,2023-03-13 14:05:56,0.9333333333333333,14,Monday,provisional: unflagged non-terminal anchor support,False
+11311,710,2023-03-13,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011027,2023-03-13 14:10:00,2023-03-13 14:10:23,0.38333333333333336,14,Monday,provisional: unflagged non-terminal anchor support,False
+11334,710,2023-03-13,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011030,2023-03-13 14:37:00,2023-03-13 14:36:23,-0.6166666666666667,14,Monday,provisional: unflagged non-terminal anchor support,False
+11343,710,2023-03-13,train,107,Health Department,0,health_dept_branch,1011030,2023-03-13 14:45:00,2023-03-13 14:41:03,-3.95,14,Monday,provisional: unflagged non-terminal anchor support,False
+11365,710,2023-03-13,train,107,Health Department,1,health_dept_branch,1011031,2023-03-13 15:05:00,2023-03-13 15:06:21,1.35,15,Monday,provisional: unflagged non-terminal anchor support,False
+11373,710,2023-03-13,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011031,2023-03-13 15:10:00,2023-03-13 15:11:05,1.0833333333333333,15,Monday,provisional: unflagged non-terminal anchor support,False
+11396,710,2023-03-13,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011034,2023-03-13 15:37:00,2023-03-13 15:37:56,0.9333333333333333,15,Monday,provisional: unflagged non-terminal anchor support,False
+11405,710,2023-03-13,train,107,Health Department,0,health_dept_branch,1011034,2023-03-13 15:45:00,2023-03-13 15:42:39,-2.35,15,Monday,provisional: unflagged non-terminal anchor support,False
+11427,710,2023-03-13,train,107,Health Department,1,health_dept_branch,1011035,2023-03-13 16:05:00,2023-03-13 16:05:39,0.65,16,Monday,provisional: unflagged non-terminal anchor support,False
+11435,710,2023-03-13,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011035,2023-03-13 16:10:00,2023-03-13 16:10:17,0.2833333333333333,16,Monday,provisional: unflagged non-terminal anchor support,False
+11458,710,2023-03-13,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011038,2023-03-13 16:37:00,2023-03-13 16:37:49,0.8166666666666667,16,Monday,provisional: unflagged non-terminal anchor support,False
+11467,710,2023-03-13,train,107,Health Department,0,health_dept_branch,1011038,2023-03-13 16:45:00,2023-03-13 16:43:01,-1.9833333333333334,16,Monday,provisional: unflagged non-terminal anchor support,False
+11489,710,2023-03-13,train,107,Health Department,1,health_dept_branch,1011039,2023-03-13 17:05:00,2023-03-13 17:04:52,-0.13333333333333333,17,Monday,provisional: unflagged non-terminal anchor support,False
+11497,710,2023-03-13,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011039,2023-03-13 17:10:00,2023-03-13 17:09:21,-0.65,17,Monday,provisional: unflagged non-terminal anchor support,False
+12904,2111,2023-03-14,train,1235,NE Walmart Supercenter,1,main_loop,1011001,2023-03-14 05:40:00,2023-03-14 05:45:15,5.25,5,Tuesday,provisional: terminal-dependent support,False
+12927,2111,2023-03-14,train,1234,NE Walmart Supercenter,0,main_loop,1011002,2023-03-14 06:07:00,2023-03-14 06:09:51,2.85,6,Tuesday,provisional: terminal-dependent support,False
+12966,2111,2023-03-14,train,1235,NE Walmart Supercenter,1,main_loop,1011003,2023-03-14 06:40:00,2023-03-14 06:43:37,3.6166666666666667,6,Tuesday,provisional: terminal-dependent support,False
+12989,2111,2023-03-14,train,1234,NE Walmart Supercenter,0,main_loop,1011004,2023-03-14 07:07:00,2023-03-14 07:08:37,1.6166666666666667,7,Tuesday,provisional: terminal-dependent support,False
+13028,2111,2023-03-14,train,1235,NE Walmart Supercenter,1,main_loop,1011005,2023-03-14 07:40:00,2023-03-14 07:43:46,3.7666666666666666,7,Tuesday,provisional: terminal-dependent support,False
+13051,2111,2023-03-14,train,1234,NE Walmart Supercenter,0,main_loop,1011006,2023-03-14 08:07:00,2023-03-14 08:12:47,5.783333333333333,8,Tuesday,provisional: terminal-dependent support,False
+13090,2111,2023-03-14,train,1235,NE Walmart Supercenter,1,main_loop,1011007,2023-03-14 08:40:00,2023-03-14 08:43:02,3.033333333333333,8,Tuesday,provisional: terminal-dependent support,False
+13113,2111,2023-03-14,train,1234,NE Walmart Supercenter,0,main_loop,1011008,2023-03-14 09:07:00,2023-03-14 09:08:11,1.1833333333333333,9,Tuesday,provisional: terminal-dependent support,False
+13152,2111,2023-03-14,train,1235,NE Walmart Supercenter,1,main_loop,1011009,2023-03-14 09:40:00,2023-03-14 09:43:07,3.1166666666666667,9,Tuesday,provisional: terminal-dependent support,False
+13175,2111,2023-03-14,train,1234,NE Walmart Supercenter,0,main_loop,1011012,2023-03-14 10:07:00,2023-03-14 10:08:02,1.0333333333333334,10,Tuesday,provisional: terminal-dependent support,False
+13214,2111,2023-03-14,train,1235,NE Walmart Supercenter,1,main_loop,1011013,2023-03-14 10:40:00,2023-03-14 10:44:23,4.383333333333334,10,Tuesday,provisional: terminal-dependent support,False
+13237,2111,2023-03-14,train,1234,NE Walmart Supercenter,0,main_loop,1011016,2023-03-14 11:07:00,2023-03-14 11:11:20,4.333333333333333,11,Tuesday,provisional: terminal-dependent support,False
+13276,2111,2023-03-14,train,1235,NE Walmart Supercenter,1,main_loop,1011017,2023-03-14 11:40:00,2023-03-14 11:43:52,3.8666666666666667,11,Tuesday,provisional: terminal-dependent support,False
+13299,2111,2023-03-14,train,1234,NE Walmart Supercenter,0,main_loop,1011020,2023-03-14 12:07:00,2023-03-14 12:09:18,2.3,12,Tuesday,provisional: terminal-dependent support,False
+13338,2111,2023-03-14,train,1235,NE Walmart Supercenter,1,main_loop,1011021,2023-03-14 12:40:00,2023-03-14 12:43:35,3.5833333333333335,12,Tuesday,provisional: terminal-dependent support,False
+13361,2111,2023-03-14,train,1234,NE Walmart Supercenter,0,main_loop,1011024,2023-03-14 13:07:00,2023-03-14 13:09:35,2.5833333333333335,13,Tuesday,provisional: terminal-dependent support,False
+13400,2111,2023-03-14,train,1235,NE Walmart Supercenter,1,main_loop,1011025,2023-03-14 13:40:00,2023-03-14 13:42:45,2.75,13,Tuesday,provisional: terminal-dependent support,False
+13423,2111,2023-03-14,train,1234,NE Walmart Supercenter,0,main_loop,1011028,2023-03-14 14:07:00,2023-03-14 14:10:55,3.9166666666666665,14,Tuesday,provisional: terminal-dependent support,False
+13462,2111,2023-03-14,train,1235,NE Walmart Supercenter,1,main_loop,1011029,2023-03-14 14:40:00,2023-03-14 14:47:56,7.933333333333334,14,Tuesday,provisional: terminal-dependent support,True
+13485,2111,2023-03-14,train,1234,NE Walmart Supercenter,0,main_loop,1011032,2023-03-14 15:07:00,2023-03-14 15:11:56,4.933333333333334,15,Tuesday,provisional: terminal-dependent support,False
+13524,2111,2023-03-14,train,1235,NE Walmart Supercenter,1,main_loop,1011033,2023-03-14 15:40:00,2023-03-14 15:41:00,1.0,15,Tuesday,provisional: terminal-dependent support,False
+13547,2111,2023-03-14,train,1234,NE Walmart Supercenter,0,main_loop,1011036,2023-03-14 16:07:00,2023-03-14 16:08:01,1.0166666666666666,16,Tuesday,provisional: terminal-dependent support,False
+13586,2111,2023-03-14,train,1235,NE Walmart Supercenter,1,main_loop,1011037,2023-03-14 16:40:00,2023-03-14 16:40:12,0.2,16,Tuesday,provisional: terminal-dependent support,False
+13609,2111,2023-03-14,train,1234,NE Walmart Supercenter,0,main_loop,1011040,2023-03-14 17:07:00,2023-03-14 17:12:06,5.1,17,Tuesday,provisional: terminal-dependent support,False
+13648,2111,2023-03-14,train,1235,NE Walmart Supercenter,1,main_loop,1011041,2023-03-14 17:40:00,2023-03-14 17:41:56,1.9333333333333333,17,Tuesday,provisional: terminal-dependent support,False
+13671,2111,2023-03-14,train,1234,NE Walmart Supercenter,0,main_loop,1011042,2023-03-14 18:07:00,2023-03-14 18:08:02,1.0333333333333334,18,Tuesday,provisional: terminal-dependent support,False
+13726,2111,2023-03-14,train,1234,NE Walmart Supercenter,0,main_loop,1011044,2023-03-14 19:07:00,2023-03-14 19:18:32,11.533333333333333,19,Tuesday,provisional: terminal-dependent support,True
+13758,2111,2023-03-14,train,1235,NE Walmart Supercenter,1,main_loop,1011045,2023-03-14 19:40:00,2023-03-14 19:38:29,-1.5166666666666666,19,Tuesday,provisional: terminal-dependent support,False
+12393,710,2023-03-14,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011010,2023-03-14 09:37:00,2023-03-14 09:36:37,-0.38333333333333336,9,Tuesday,provisional: unflagged non-terminal anchor support,False
+12402,710,2023-03-14,train,107,Health Department,0,health_dept_branch,1011010,2023-03-14 09:45:00,2023-03-14 09:40:40,-4.333333333333333,9,Tuesday,provisional: unflagged non-terminal anchor support,False
+12424,710,2023-03-14,train,107,Health Department,1,health_dept_branch,1011011,2023-03-14 10:05:00,2023-03-14 10:04:54,-0.1,10,Tuesday,provisional: unflagged non-terminal anchor support,False
+12432,710,2023-03-14,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011011,2023-03-14 10:10:00,2023-03-14 10:09:10,-0.8333333333333334,10,Tuesday,provisional: unflagged non-terminal anchor support,False
+12455,710,2023-03-14,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011014,2023-03-14 10:37:00,2023-03-14 10:36:31,-0.48333333333333334,10,Tuesday,provisional: unflagged non-terminal anchor support,False
+12464,710,2023-03-14,train,107,Health Department,0,health_dept_branch,1011014,2023-03-14 10:45:00,2023-03-14 10:42:54,-2.1,10,Tuesday,provisional: unflagged non-terminal anchor support,False
+12486,710,2023-03-14,train,107,Health Department,1,health_dept_branch,1011015,2023-03-14 11:05:00,2023-03-14 11:05:42,0.7,11,Tuesday,provisional: unflagged non-terminal anchor support,False
+12494,710,2023-03-14,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011015,2023-03-14 11:10:00,2023-03-14 11:10:08,0.13333333333333333,11,Tuesday,provisional: unflagged non-terminal anchor support,False
+12517,710,2023-03-14,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011018,2023-03-14 11:37:00,2023-03-14 11:37:17,0.2833333333333333,11,Tuesday,provisional: unflagged non-terminal anchor support,False
+12526,710,2023-03-14,train,107,Health Department,0,health_dept_branch,1011018,2023-03-14 11:45:00,2023-03-14 11:41:39,-3.35,11,Tuesday,provisional: unflagged non-terminal anchor support,False
+12548,710,2023-03-14,train,107,Health Department,1,health_dept_branch,1011019,2023-03-14 12:05:00,2023-03-14 12:04:26,-0.5666666666666667,12,Tuesday,provisional: unflagged non-terminal anchor support,False
+12556,710,2023-03-14,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011019,2023-03-14 12:10:00,2023-03-14 12:09:05,-0.9166666666666666,12,Tuesday,provisional: unflagged non-terminal anchor support,False
+12588,710,2023-03-14,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011022,2023-03-14 12:37:00,2023-03-14 12:37:19,0.31666666666666665,12,Tuesday,provisional: unflagged non-terminal anchor support,False
+12597,710,2023-03-14,train,107,Health Department,0,health_dept_branch,1011022,2023-03-14 12:45:00,2023-03-14 12:41:15,-3.75,12,Tuesday,provisional: unflagged non-terminal anchor support,False
+12619,710,2023-03-14,train,107,Health Department,1,health_dept_branch,1011023,2023-03-14 13:05:00,2023-03-14 13:06:17,1.2833333333333334,13,Tuesday,provisional: unflagged non-terminal anchor support,False
+12627,710,2023-03-14,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011023,2023-03-14 13:10:00,2023-03-14 13:10:54,0.9,13,Tuesday,provisional: unflagged non-terminal anchor support,False
+12650,710,2023-03-14,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011026,2023-03-14 13:37:00,2023-03-14 13:40:41,3.683333333333333,13,Tuesday,provisional: unflagged non-terminal anchor support,False
+12659,710,2023-03-14,train,107,Health Department,0,health_dept_branch,1011026,2023-03-14 13:45:00,2023-03-14 13:53:42,8.7,13,Tuesday,provisional: unflagged non-terminal anchor support,False
+12681,710,2023-03-14,train,107,Health Department,1,health_dept_branch,1011027,2023-03-14 14:05:00,2023-03-14 14:04:56,-0.06666666666666667,14,Tuesday,provisional: unflagged non-terminal anchor support,False
+12689,710,2023-03-14,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011027,2023-03-14 14:10:00,2023-03-14 14:09:07,-0.8833333333333333,14,Tuesday,provisional: unflagged non-terminal anchor support,False
+12712,710,2023-03-14,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011030,2023-03-14 14:37:00,2023-03-14 14:37:30,0.5,14,Tuesday,provisional: unflagged non-terminal anchor support,False
+12721,710,2023-03-14,train,107,Health Department,0,health_dept_branch,1011030,2023-03-14 14:45:00,2023-03-14 14:41:42,-3.3,14,Tuesday,provisional: unflagged non-terminal anchor support,False
+12743,710,2023-03-14,train,107,Health Department,1,health_dept_branch,1011031,2023-03-14 15:05:00,2023-03-14 15:06:25,1.4166666666666667,15,Tuesday,provisional: unflagged non-terminal anchor support,False
+12751,710,2023-03-14,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011031,2023-03-14 15:10:00,2023-03-14 15:10:47,0.7833333333333333,15,Tuesday,provisional: unflagged non-terminal anchor support,False
+12774,710,2023-03-14,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011034,2023-03-14 15:37:00,2023-03-14 15:37:51,0.85,15,Tuesday,provisional: unflagged non-terminal anchor support,False
+12783,710,2023-03-14,train,107,Health Department,0,health_dept_branch,1011034,2023-03-14 15:45:00,2023-03-14 15:42:09,-2.85,15,Tuesday,provisional: unflagged non-terminal anchor support,False
+12805,710,2023-03-14,train,107,Health Department,1,health_dept_branch,1011035,2023-03-14 16:05:00,2023-03-14 16:05:25,0.4166666666666667,16,Tuesday,provisional: unflagged non-terminal anchor support,False
+12813,710,2023-03-14,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011035,2023-03-14 16:10:00,2023-03-14 16:09:57,-0.05,16,Tuesday,provisional: unflagged non-terminal anchor support,False
+12836,710,2023-03-14,train,1234,NE Walmart Supercenter,0,health_dept_branch,1011038,2023-03-14 16:37:00,2023-03-14 16:38:30,1.5,16,Tuesday,provisional: unflagged non-terminal anchor support,False
+12845,710,2023-03-14,train,107,Health Department,0,health_dept_branch,1011038,2023-03-14 16:45:00,2023-03-14 16:42:52,-2.1333333333333333,16,Tuesday,provisional: unflagged non-terminal anchor support,False
+12867,710,2023-03-14,train,107,Health Department,1,health_dept_branch,1011039,2023-03-14 17:05:00,2023-03-14 17:05:43,0.7166666666666667,17,Tuesday,provisional: unflagged non-terminal anchor support,False
+12875,710,2023-03-14,train,1235,NE Walmart Supercenter,1,health_dept_branch,1011039,2023-03-14 17:10:00,2023-03-14 17:10:14,0.23333333333333334,17,Tuesday,provisional: unflagged non-terminal anchor support,False
+14283,2111,2023-03-15,validation,1235,NE Walmart Supercenter,1,main_loop,1011001,2023-03-15 05:40:00,2023-03-15 05:40:39,0.65,5,Wednesday,provisional: terminal-dependent support,False
+14306,2111,2023-03-15,validation,1234,NE Walmart Supercenter,0,main_loop,1011002,2023-03-15 06:07:00,2023-03-15 06:11:05,4.083333333333333,6,Wednesday,provisional: terminal-dependent support,False
+14345,2111,2023-03-15,validation,1235,NE Walmart Supercenter,1,main_loop,1011003,2023-03-15 06:40:00,2023-03-15 06:43:08,3.1333333333333333,6,Wednesday,provisional: terminal-dependent support,False
+14368,2111,2023-03-15,validation,1234,NE Walmart Supercenter,0,main_loop,1011004,2023-03-15 07:07:00,2023-03-15 07:08:57,1.95,7,Wednesday,provisional: terminal-dependent support,False
+14407,2111,2023-03-15,validation,1235,NE Walmart Supercenter,1,main_loop,1011005,2023-03-15 07:40:00,2023-03-15 07:41:17,1.2833333333333334,7,Wednesday,provisional: terminal-dependent support,False
+14430,2111,2023-03-15,validation,1234,NE Walmart Supercenter,0,main_loop,1011006,2023-03-15 08:07:00,2023-03-15 08:12:42,5.7,8,Wednesday,provisional: terminal-dependent support,False
+14465,2111,2023-03-15,validation,1235,NE Walmart Supercenter,1,main_loop,1011007,2023-03-15 08:40:00,2023-03-15 08:39:33,-0.45,8,Wednesday,provisional: terminal-dependent support,False
+14488,2111,2023-03-15,validation,1234,NE Walmart Supercenter,0,main_loop,1011008,2023-03-15 09:07:00,2023-03-15 09:08:21,1.35,9,Wednesday,provisional: terminal-dependent support,False
+14527,2111,2023-03-15,validation,1235,NE Walmart Supercenter,1,main_loop,1011009,2023-03-15 09:40:00,2023-03-15 09:40:19,0.31666666666666665,9,Wednesday,provisional: terminal-dependent support,False
+14550,2111,2023-03-15,validation,1234,NE Walmart Supercenter,0,main_loop,1011012,2023-03-15 10:07:00,2023-03-15 10:09:36,2.6,10,Wednesday,provisional: terminal-dependent support,False
+14589,2111,2023-03-15,validation,1235,NE Walmart Supercenter,1,main_loop,1011013,2023-03-15 10:40:00,2023-03-15 10:39:58,-0.03333333333333333,10,Wednesday,provisional: terminal-dependent support,False
+14612,2111,2023-03-15,validation,1234,NE Walmart Supercenter,0,main_loop,1011016,2023-03-15 11:07:00,2023-03-15 11:06:42,-0.3,11,Wednesday,provisional: terminal-dependent support,False
+14651,2111,2023-03-15,validation,1235,NE Walmart Supercenter,1,main_loop,1011017,2023-03-15 11:40:00,2023-03-15 11:40:08,0.13333333333333333,11,Wednesday,provisional: terminal-dependent support,False
+14674,2111,2023-03-15,validation,1234,NE Walmart Supercenter,0,main_loop,1011020,2023-03-15 12:07:00,2023-03-15 12:09:02,2.033333333333333,12,Wednesday,provisional: terminal-dependent support,False
+14713,2111,2023-03-15,validation,1235,NE Walmart Supercenter,1,main_loop,1011021,2023-03-15 12:40:00,2023-03-15 12:44:19,4.316666666666666,12,Wednesday,provisional: terminal-dependent support,False
+14736,2111,2023-03-15,validation,1234,NE Walmart Supercenter,0,main_loop,1011024,2023-03-15 13:07:00,2023-03-15 13:07:20,0.3333333333333333,13,Wednesday,provisional: terminal-dependent support,False
+14775,2111,2023-03-15,validation,1235,NE Walmart Supercenter,1,main_loop,1011025,2023-03-15 13:40:00,2023-03-15 13:40:22,0.36666666666666664,13,Wednesday,provisional: terminal-dependent support,False
+14798,2111,2023-03-15,validation,1234,NE Walmart Supercenter,0,main_loop,1011028,2023-03-15 14:07:00,2023-03-15 14:09:11,2.183333333333333,14,Wednesday,provisional: terminal-dependent support,False
+14837,2111,2023-03-15,validation,1235,NE Walmart Supercenter,1,main_loop,1011029,2023-03-15 14:40:00,2023-03-15 14:39:08,-0.8666666666666667,14,Wednesday,provisional: terminal-dependent support,False
+14861,2111,2023-03-15,validation,1234,NE Walmart Supercenter,0,main_loop,1011032,2023-03-15 15:07:00,2023-03-15 15:08:01,1.0166666666666666,15,Wednesday,provisional: terminal-dependent support,False
+14900,2111,2023-03-15,validation,1235,NE Walmart Supercenter,1,main_loop,1011033,2023-03-15 15:40:00,2023-03-15 15:44:35,4.583333333333333,15,Wednesday,provisional: terminal-dependent support,False
+14923,2111,2023-03-15,validation,1234,NE Walmart Supercenter,0,main_loop,1011036,2023-03-15 16:07:00,2023-03-15 16:12:02,5.033333333333333,16,Wednesday,provisional: terminal-dependent support,False
+14962,2111,2023-03-15,validation,1235,NE Walmart Supercenter,1,main_loop,1011037,2023-03-15 16:40:00,2023-03-15 16:39:30,-0.5,16,Wednesday,provisional: terminal-dependent support,False
+14985,2111,2023-03-15,validation,1234,NE Walmart Supercenter,0,main_loop,1011040,2023-03-15 17:07:00,2023-03-15 17:08:18,1.3,17,Wednesday,provisional: terminal-dependent support,False
+15024,2111,2023-03-15,validation,1235,NE Walmart Supercenter,1,main_loop,1011041,2023-03-15 17:40:00,2023-03-15 17:41:26,1.4333333333333333,17,Wednesday,provisional: terminal-dependent support,False
+15047,2111,2023-03-15,validation,1234,NE Walmart Supercenter,0,main_loop,1011042,2023-03-15 18:07:00,2023-03-15 18:09:34,2.566666666666667,18,Wednesday,provisional: terminal-dependent support,False
+15079,2111,2023-03-15,validation,1235,NE Walmart Supercenter,1,main_loop,1011043,2023-03-15 18:40:00,2023-03-15 18:36:47,-3.216666666666667,18,Wednesday,provisional: terminal-dependent support,True
+15102,2111,2023-03-15,validation,1234,NE Walmart Supercenter,0,main_loop,1011044,2023-03-15 19:07:00,2023-03-15 19:06:35,-0.4166666666666667,19,Wednesday,provisional: terminal-dependent support,False
+15134,2111,2023-03-15,validation,1235,NE Walmart Supercenter,1,main_loop,1011045,2023-03-15 19:40:00,2023-03-15 19:42:27,2.45,19,Wednesday,provisional: terminal-dependent support,False
+13781,710,2023-03-15,validation,1234,NE Walmart Supercenter,0,health_dept_branch,1011010,2023-03-15 09:37:00,2023-03-15 09:37:56,0.9333333333333333,9,Wednesday,provisional: unflagged non-terminal anchor support,False
+13790,710,2023-03-15,validation,107,Health Department,0,health_dept_branch,1011010,2023-03-15 09:45:00,2023-03-15 09:41:51,-3.15,9,Wednesday,provisional: unflagged non-terminal anchor support,False
+13812,710,2023-03-15,validation,107,Health Department,1,health_dept_branch,1011011,2023-03-15 10:05:00,2023-03-15 10:05:57,0.95,10,Wednesday,provisional: unflagged non-terminal anchor support,False
+13820,710,2023-03-15,validation,1235,NE Walmart Supercenter,1,health_dept_branch,1011011,2023-03-15 10:10:00,2023-03-15 10:10:30,0.5,10,Wednesday,provisional: unflagged non-terminal anchor support,False
+13843,710,2023-03-15,validation,1234,NE Walmart Supercenter,0,health_dept_branch,1011014,2023-03-15 10:37:00,2023-03-15 10:36:26,-0.5666666666666667,10,Wednesday,provisional: unflagged non-terminal anchor support,False
+13852,710,2023-03-15,validation,107,Health Department,0,health_dept_branch,1011014,2023-03-15 10:45:00,2023-03-15 10:40:28,-4.533333333333333,10,Wednesday,provisional: unflagged non-terminal anchor support,False
+13874,710,2023-03-15,validation,107,Health Department,1,health_dept_branch,1011015,2023-03-15 11:05:00,2023-03-15 11:05:35,0.5833333333333334,11,Wednesday,provisional: unflagged non-terminal anchor support,False
+13882,710,2023-03-15,validation,1235,NE Walmart Supercenter,1,health_dept_branch,1011015,2023-03-15 11:10:00,2023-03-15 11:09:57,-0.05,11,Wednesday,provisional: unflagged non-terminal anchor support,False
+13905,710,2023-03-15,validation,1234,NE Walmart Supercenter,0,health_dept_branch,1011018,2023-03-15 11:37:00,2023-03-15 11:40:45,3.75,11,Wednesday,provisional: unflagged non-terminal anchor support,False
+13914,710,2023-03-15,validation,107,Health Department,0,health_dept_branch,1011018,2023-03-15 11:45:00,2023-03-15 11:44:57,-0.05,11,Wednesday,provisional: unflagged non-terminal anchor support,False
+13936,710,2023-03-15,validation,107,Health Department,1,health_dept_branch,1011019,2023-03-15 12:05:00,2023-03-15 12:08:14,3.2333333333333334,12,Wednesday,provisional: unflagged non-terminal anchor support,False
+13944,710,2023-03-15,validation,1235,NE Walmart Supercenter,1,health_dept_branch,1011019,2023-03-15 12:10:00,2023-03-15 12:12:50,2.8333333333333335,12,Wednesday,provisional: unflagged non-terminal anchor support,False
+13967,710,2023-03-15,validation,1234,NE Walmart Supercenter,0,health_dept_branch,1011022,2023-03-15 12:37:00,2023-03-15 12:37:44,0.7333333333333333,12,Wednesday,provisional: unflagged non-terminal anchor support,False
+13976,710,2023-03-15,validation,107,Health Department,0,health_dept_branch,1011022,2023-03-15 12:45:00,2023-03-15 12:42:40,-2.3333333333333335,12,Wednesday,provisional: unflagged non-terminal anchor support,False
+13998,710,2023-03-15,validation,107,Health Department,1,health_dept_branch,1011023,2023-03-15 13:05:00,2023-03-15 13:05:15,0.25,13,Wednesday,provisional: unflagged non-terminal anchor support,False
+14006,710,2023-03-15,validation,1235,NE Walmart Supercenter,1,health_dept_branch,1011023,2023-03-15 13:10:00,2023-03-15 13:10:31,0.5166666666666667,13,Wednesday,provisional: unflagged non-terminal anchor support,False
+14029,710,2023-03-15,validation,1234,NE Walmart Supercenter,0,health_dept_branch,1011026,2023-03-15 13:37:00,2023-03-15 13:37:25,0.4166666666666667,13,Wednesday,provisional: unflagged non-terminal anchor support,False
+14038,710,2023-03-15,validation,107,Health Department,0,health_dept_branch,1011026,2023-03-15 13:45:00,2023-03-15 13:44:09,-0.85,13,Wednesday,provisional: unflagged non-terminal anchor support,False
+14060,710,2023-03-15,validation,107,Health Department,1,health_dept_branch,1011027,2023-03-15 14:05:00,2023-03-15 14:04:25,-0.5833333333333334,14,Wednesday,provisional: unflagged non-terminal anchor support,False
+14068,710,2023-03-15,validation,1235,NE Walmart Supercenter,1,health_dept_branch,1011027,2023-03-15 14:10:00,2023-03-15 14:08:49,-1.1833333333333333,14,Wednesday,provisional: unflagged non-terminal anchor support,False
+14091,710,2023-03-15,validation,1234,NE Walmart Supercenter,0,health_dept_branch,1011030,2023-03-15 14:37:00,2023-03-15 14:38:13,1.2166666666666666,14,Wednesday,provisional: unflagged non-terminal anchor support,False
+14100,710,2023-03-15,validation,107,Health Department,0,health_dept_branch,1011030,2023-03-15 14:45:00,2023-03-15 14:42:35,-2.4166666666666665,14,Wednesday,provisional: unflagged non-terminal anchor support,False
+14122,710,2023-03-15,validation,107,Health Department,1,health_dept_branch,1011031,2023-03-15 15:05:00,2023-03-15 15:04:56,-0.06666666666666667,15,Wednesday,provisional: unflagged non-terminal anchor support,False
+14130,710,2023-03-15,validation,1235,NE Walmart Supercenter,1,health_dept_branch,1011031,2023-03-15 15:10:00,2023-03-15 15:09:59,-0.016666666666666666,15,Wednesday,provisional: unflagged non-terminal anchor support,False
+14153,710,2023-03-15,validation,1234,NE Walmart Supercenter,0,health_dept_branch,1011034,2023-03-15 15:37:00,2023-03-15 15:38:01,1.0166666666666666,15,Wednesday,provisional: unflagged non-terminal anchor support,False
+14162,710,2023-03-15,validation,107,Health Department,0,health_dept_branch,1011034,2023-03-15 15:45:00,2023-03-15 15:42:35,-2.4166666666666665,15,Wednesday,provisional: unflagged non-terminal anchor support,False
+14184,710,2023-03-15,validation,107,Health Department,1,health_dept_branch,1011035,2023-03-15 16:05:00,2023-03-15 16:06:44,1.7333333333333334,16,Wednesday,provisional: unflagged non-terminal anchor support,False
+14192,710,2023-03-15,validation,1235,NE Walmart Supercenter,1,health_dept_branch,1011035,2023-03-15 16:10:00,2023-03-15 16:11:53,1.8833333333333333,16,Wednesday,provisional: unflagged non-terminal anchor support,False
+14215,710,2023-03-15,validation,1234,NE Walmart Supercenter,0,health_dept_branch,1011038,2023-03-15 16:37:00,2023-03-15 16:38:39,1.65,16,Wednesday,provisional: unflagged non-terminal anchor support,False
+14224,710,2023-03-15,validation,107,Health Department,0,health_dept_branch,1011038,2023-03-15 16:45:00,2023-03-15 16:44:29,-0.5166666666666667,16,Wednesday,provisional: unflagged non-terminal anchor support,False
+14246,710,2023-03-15,validation,107,Health Department,1,health_dept_branch,1011039,2023-03-15 17:05:00,2023-03-15 17:05:02,0.03333333333333333,17,Wednesday,provisional: unflagged non-terminal anchor support,False
+14254,710,2023-03-15,validation,1235,NE Walmart Supercenter,1,health_dept_branch,1011039,2023-03-15 17:10:00,2023-03-15 17:10:38,0.6333333333333333,17,Wednesday,provisional: unflagged non-terminal anchor support,False
+15661,2111,2023-03-16,validation,1235,NE Walmart Supercenter,1,main_loop,1011001,2023-03-16 05:40:00,2023-03-16 05:39:29,-0.5166666666666667,5,Thursday,provisional: terminal-dependent support,False
+15684,2111,2023-03-16,validation,1234,NE Walmart Supercenter,0,main_loop,1011002,2023-03-16 06:07:00,2023-03-16 06:12:43,5.716666666666667,6,Thursday,provisional: terminal-dependent support,False
+15723,2111,2023-03-16,validation,1235,NE Walmart Supercenter,1,main_loop,1011003,2023-03-16 06:40:00,2023-03-16 06:40:01,0.016666666666666666,6,Thursday,provisional: terminal-dependent support,False
+15746,2111,2023-03-16,validation,1234,NE Walmart Supercenter,0,main_loop,1011004,2023-03-16 07:07:00,2023-03-16 07:08:31,1.5166666666666666,7,Thursday,provisional: terminal-dependent support,False
+15785,2111,2023-03-16,validation,1235,NE Walmart Supercenter,1,main_loop,1011005,2023-03-16 07:40:00,2023-03-16 07:40:55,0.9166666666666666,7,Thursday,provisional: terminal-dependent support,False
+15808,2111,2023-03-16,validation,1234,NE Walmart Supercenter,0,main_loop,1011006,2023-03-16 08:07:00,2023-03-16 08:12:33,5.55,8,Thursday,provisional: terminal-dependent support,False
+15847,2111,2023-03-16,validation,1235,NE Walmart Supercenter,1,main_loop,1011007,2023-03-16 08:40:00,2023-03-16 08:39:18,-0.7,8,Thursday,provisional: terminal-dependent support,False
+15870,2111,2023-03-16,validation,1234,NE Walmart Supercenter,0,main_loop,1011008,2023-03-16 09:07:00,2023-03-16 09:08:02,1.0333333333333334,9,Thursday,provisional: terminal-dependent support,False
+15909,2111,2023-03-16,validation,1235,NE Walmart Supercenter,1,main_loop,1011009,2023-03-16 09:40:00,2023-03-16 09:41:53,1.8833333333333333,9,Thursday,provisional: terminal-dependent support,False
+15932,2111,2023-03-16,validation,1234,NE Walmart Supercenter,0,main_loop,1011012,2023-03-16 10:07:00,2023-03-16 10:09:49,2.816666666666667,10,Thursday,provisional: terminal-dependent support,False
+15971,2111,2023-03-16,validation,1235,NE Walmart Supercenter,1,main_loop,1011013,2023-03-16 10:40:00,2023-03-16 10:38:18,-1.7,10,Thursday,provisional: terminal-dependent support,False
+15994,2111,2023-03-16,validation,1234,NE Walmart Supercenter,0,main_loop,1011016,2023-03-16 11:07:00,2023-03-16 11:08:21,1.35,11,Thursday,provisional: terminal-dependent support,False
+16033,2111,2023-03-16,validation,1235,NE Walmart Supercenter,1,main_loop,1011017,2023-03-16 11:40:00,2023-03-16 11:40:53,0.8833333333333333,11,Thursday,provisional: terminal-dependent support,False
+16056,2111,2023-03-16,validation,1234,NE Walmart Supercenter,0,main_loop,1011020,2023-03-16 12:07:00,2023-03-16 12:12:57,5.95,12,Thursday,provisional: terminal-dependent support,False
+16095,2111,2023-03-16,validation,1235,NE Walmart Supercenter,1,main_loop,1011021,2023-03-16 12:40:00,2023-03-16 12:42:07,2.1166666666666667,12,Thursday,provisional: terminal-dependent support,False
+16118,2111,2023-03-16,validation,1234,NE Walmart Supercenter,0,main_loop,1011024,2023-03-16 13:07:00,2023-03-16 13:07:17,0.2833333333333333,13,Thursday,provisional: terminal-dependent support,False
+16157,2111,2023-03-16,validation,1235,NE Walmart Supercenter,1,main_loop,1011025,2023-03-16 13:40:00,2023-03-16 13:41:08,1.1333333333333333,13,Thursday,provisional: terminal-dependent support,False
+16180,2111,2023-03-16,validation,1234,NE Walmart Supercenter,0,main_loop,1011028,2023-03-16 14:07:00,2023-03-16 14:10:38,3.6333333333333333,14,Thursday,provisional: terminal-dependent support,False
+16219,2111,2023-03-16,validation,1235,NE Walmart Supercenter,1,main_loop,1011029,2023-03-16 14:40:00,2023-03-16 14:38:16,-1.7333333333333334,14,Thursday,provisional: terminal-dependent support,False
+16242,2111,2023-03-16,validation,1234,NE Walmart Supercenter,0,main_loop,1011032,2023-03-16 15:07:00,2023-03-16 15:08:01,1.0166666666666666,15,Thursday,provisional: terminal-dependent support,False
+16281,2111,2023-03-16,validation,1235,NE Walmart Supercenter,1,main_loop,1011033,2023-03-16 15:40:00,2023-03-16 15:43:13,3.216666666666667,15,Thursday,provisional: terminal-dependent support,False
+16304,2111,2023-03-16,validation,1234,NE Walmart Supercenter,0,main_loop,1011036,2023-03-16 16:07:00,2023-03-16 16:08:05,1.0833333333333333,16,Thursday,provisional: terminal-dependent support,False
+16343,2111,2023-03-16,validation,1235,NE Walmart Supercenter,1,main_loop,1011037,2023-03-16 16:40:00,2023-03-16 16:41:19,1.3166666666666667,16,Thursday,provisional: terminal-dependent support,False
+16366,2111,2023-03-16,validation,1234,NE Walmart Supercenter,0,main_loop,1011040,2023-03-16 17:07:00,2023-03-16 17:08:38,1.6333333333333333,17,Thursday,provisional: terminal-dependent support,False
+16405,2111,2023-03-16,validation,1235,NE Walmart Supercenter,1,main_loop,1011041,2023-03-16 17:40:00,2023-03-16 17:40:36,0.6,17,Thursday,provisional: terminal-dependent support,False
+16428,2111,2023-03-16,validation,1234,NE Walmart Supercenter,0,main_loop,1011042,2023-03-16 18:07:00,2023-03-16 18:09:37,2.6166666666666667,18,Thursday,provisional: terminal-dependent support,False
+16460,2111,2023-03-16,validation,1235,NE Walmart Supercenter,1,main_loop,1011043,2023-03-16 18:40:00,2023-03-16 18:36:57,-3.05,18,Thursday,provisional: terminal-dependent support,False
+16483,2111,2023-03-16,validation,1234,NE Walmart Supercenter,0,main_loop,1011044,2023-03-16 19:07:00,2023-03-16 19:07:54,0.9,19,Thursday,provisional: terminal-dependent support,False
+16515,2111,2023-03-16,validation,1235,NE Walmart Supercenter,1,main_loop,1011045,2023-03-16 19:40:00,2023-03-16 19:37:17,-2.716666666666667,19,Thursday,provisional: terminal-dependent support,False
+15159,710,2023-03-16,validation,1234,NE Walmart Supercenter,0,health_dept_branch,1011010,2023-03-16 09:37:00,2023-03-16 09:36:27,-0.55,9,Thursday,provisional: unflagged non-terminal anchor support,False
+15168,710,2023-03-16,validation,107,Health Department,0,health_dept_branch,1011010,2023-03-16 09:45:00,2023-03-16 09:40:30,-4.5,9,Thursday,provisional: unflagged non-terminal anchor support,False
+15190,710,2023-03-16,validation,107,Health Department,1,health_dept_branch,1011011,2023-03-16 10:05:00,2023-03-16 10:05:29,0.48333333333333334,10,Thursday,provisional: unflagged non-terminal anchor support,False
+15198,710,2023-03-16,validation,1235,NE Walmart Supercenter,1,health_dept_branch,1011011,2023-03-16 10:10:00,2023-03-16 10:11:07,1.1166666666666667,10,Thursday,provisional: unflagged non-terminal anchor support,False
+15221,710,2023-03-16,validation,1234,NE Walmart Supercenter,0,health_dept_branch,1011014,2023-03-16 10:37:00,2023-03-16 10:38:01,1.0166666666666666,10,Thursday,provisional: unflagged non-terminal anchor support,False
+15230,710,2023-03-16,validation,107,Health Department,0,health_dept_branch,1011014,2023-03-16 10:45:00,2023-03-16 10:42:56,-2.066666666666667,10,Thursday,provisional: unflagged non-terminal anchor support,False
+15252,710,2023-03-16,validation,107,Health Department,1,health_dept_branch,1011015,2023-03-16 11:05:00,2023-03-16 11:05:00,0.0,11,Thursday,provisional: unflagged non-terminal anchor support,False
+15260,710,2023-03-16,validation,1235,NE Walmart Supercenter,1,health_dept_branch,1011015,2023-03-16 11:10:00,2023-03-16 11:09:28,-0.5333333333333333,11,Thursday,provisional: unflagged non-terminal anchor support,False
+15283,710,2023-03-16,validation,1234,NE Walmart Supercenter,0,health_dept_branch,1011018,2023-03-16 11:37:00,2023-03-16 11:37:22,0.36666666666666664,11,Thursday,provisional: unflagged non-terminal anchor support,False
+15292,710,2023-03-16,validation,107,Health Department,0,health_dept_branch,1011018,2023-03-16 11:45:00,2023-03-16 11:41:58,-3.033333333333333,11,Thursday,provisional: unflagged non-terminal anchor support,False
+15314,710,2023-03-16,validation,107,Health Department,1,health_dept_branch,1011019,2023-03-16 12:05:00,2023-03-16 12:05:11,0.18333333333333332,12,Thursday,provisional: unflagged non-terminal anchor support,False
+15322,710,2023-03-16,validation,1235,NE Walmart Supercenter,1,health_dept_branch,1011019,2023-03-16 12:10:00,2023-03-16 12:10:01,0.016666666666666666,12,Thursday,provisional: unflagged non-terminal anchor support,False
+15345,710,2023-03-16,validation,1234,NE Walmart Supercenter,0,health_dept_branch,1011022,2023-03-16 12:37:00,2023-03-16 12:39:01,2.0166666666666666,12,Thursday,provisional: unflagged non-terminal anchor support,False
+15354,710,2023-03-16,validation,107,Health Department,0,health_dept_branch,1011022,2023-03-16 12:45:00,2023-03-16 12:44:24,-0.6,12,Thursday,provisional: unflagged non-terminal anchor support,False
+15376,710,2023-03-16,validation,107,Health Department,1,health_dept_branch,1011023,2023-03-16 13:05:00,2023-03-16 13:04:40,-0.3333333333333333,13,Thursday,provisional: unflagged non-terminal anchor support,False
+15384,710,2023-03-16,validation,1235,NE Walmart Supercenter,1,health_dept_branch,1011023,2023-03-16 13:10:00,2023-03-16 13:09:52,-0.13333333333333333,13,Thursday,provisional: unflagged non-terminal anchor support,False
+15407,710,2023-03-16,validation,1234,NE Walmart Supercenter,0,health_dept_branch,1011026,2023-03-16 13:37:00,2023-03-16 13:37:22,0.36666666666666664,13,Thursday,provisional: unflagged non-terminal anchor support,False
+15416,710,2023-03-16,validation,107,Health Department,0,health_dept_branch,1011026,2023-03-16 13:45:00,2023-03-16 13:42:08,-2.8666666666666667,13,Thursday,provisional: unflagged non-terminal anchor support,False
+15438,710,2023-03-16,validation,107,Health Department,1,health_dept_branch,1011027,2023-03-16 14:05:00,2023-03-16 14:06:25,1.4166666666666667,14,Thursday,provisional: unflagged non-terminal anchor support,False
+15446,710,2023-03-16,validation,1235,NE Walmart Supercenter,1,health_dept_branch,1011027,2023-03-16 14:10:00,2023-03-16 14:12:24,2.4,14,Thursday,provisional: unflagged non-terminal anchor support,False
+15469,710,2023-03-16,validation,1234,NE Walmart Supercenter,0,health_dept_branch,1011030,2023-03-16 14:37:00,2023-03-16 14:37:37,0.6166666666666667,14,Thursday,provisional: unflagged non-terminal anchor support,False
+15478,710,2023-03-16,validation,107,Health Department,0,health_dept_branch,1011030,2023-03-16 14:45:00,2023-03-16 14:43:11,-1.8166666666666667,14,Thursday,provisional: unflagged non-terminal anchor support,False
+15500,710,2023-03-16,validation,107,Health Department,1,health_dept_branch,1011031,2023-03-16 15:05:00,2023-03-16 15:05:30,0.5,15,Thursday,provisional: unflagged non-terminal anchor support,False
+15508,710,2023-03-16,validation,1235,NE Walmart Supercenter,1,health_dept_branch,1011031,2023-03-16 15:10:00,2023-03-16 15:10:29,0.48333333333333334,15,Thursday,provisional: unflagged non-terminal anchor support,False
+15531,710,2023-03-16,validation,1234,NE Walmart Supercenter,0,health_dept_branch,1011034,2023-03-16 15:37:00,2023-03-16 15:40:07,3.1166666666666667,15,Thursday,provisional: unflagged non-terminal anchor support,False
+15540,710,2023-03-16,validation,107,Health Department,0,health_dept_branch,1011034,2023-03-16 15:45:00,2023-03-16 15:46:47,1.7833333333333334,15,Thursday,provisional: unflagged non-terminal anchor support,False
+15562,710,2023-03-16,validation,107,Health Department,1,health_dept_branch,1011035,2023-03-16 16:05:00,2023-03-16 16:05:19,0.31666666666666665,16,Thursday,provisional: unflagged non-terminal anchor support,False
+15570,710,2023-03-16,validation,1235,NE Walmart Supercenter,1,health_dept_branch,1011035,2023-03-16 16:10:00,2023-03-16 16:10:13,0.21666666666666667,16,Thursday,provisional: unflagged non-terminal anchor support,False
+15593,710,2023-03-16,validation,1234,NE Walmart Supercenter,0,health_dept_branch,1011038,2023-03-16 16:37:00,2023-03-16 16:38:22,1.3666666666666667,16,Thursday,provisional: unflagged non-terminal anchor support,False
+15602,710,2023-03-16,validation,107,Health Department,0,health_dept_branch,1011038,2023-03-16 16:45:00,2023-03-16 16:43:57,-1.05,16,Thursday,provisional: unflagged non-terminal anchor support,False
+15624,710,2023-03-16,validation,107,Health Department,1,health_dept_branch,1011039,2023-03-16 17:05:00,2023-03-16 17:06:29,1.4833333333333334,17,Thursday,provisional: unflagged non-terminal anchor support,False
+15632,710,2023-03-16,validation,1235,NE Walmart Supercenter,1,health_dept_branch,1011039,2023-03-16 17:10:00,2023-03-16 17:11:52,1.8666666666666667,17,Thursday,provisional: unflagged non-terminal anchor support,False
+17040,2111,2023-03-17,validation,1235,NE Walmart Supercenter,1,main_loop,1011001,2023-03-17 05:40:00,2023-03-17 05:40:18,0.3,5,Friday,provisional: terminal-dependent support,False
+17063,2111,2023-03-17,validation,1234,NE Walmart Supercenter,0,main_loop,1011002,2023-03-17 06:07:00,2023-03-17 06:12:49,5.816666666666666,6,Friday,provisional: terminal-dependent support,False
+17102,2111,2023-03-17,validation,1235,NE Walmart Supercenter,1,main_loop,1011003,2023-03-17 06:40:00,2023-03-17 06:40:46,0.7666666666666667,6,Friday,provisional: terminal-dependent support,False
+17125,2111,2023-03-17,validation,1234,NE Walmart Supercenter,0,main_loop,1011004,2023-03-17 07:07:00,2023-03-17 07:10:32,3.533333333333333,7,Friday,provisional: terminal-dependent support,False
+17161,2111,2023-03-17,validation,1235,NE Walmart Supercenter,1,main_loop,1011005,2023-03-17 07:40:00,2023-03-17 07:39:07,-0.8833333333333333,7,Friday,provisional: terminal-dependent support,False
+17184,2111,2023-03-17,validation,1234,NE Walmart Supercenter,0,main_loop,1011006,2023-03-17 08:07:00,2023-03-17 08:10:35,3.5833333333333335,8,Friday,provisional: terminal-dependent support,False
+17223,2111,2023-03-17,validation,1235,NE Walmart Supercenter,1,main_loop,1011007,2023-03-17 08:40:00,2023-03-17 08:39:33,-0.45,8,Friday,provisional: terminal-dependent support,False
+17246,2111,2023-03-17,validation,1234,NE Walmart Supercenter,0,main_loop,1011008,2023-03-17 09:07:00,2023-03-17 09:12:39,5.65,9,Friday,provisional: terminal-dependent support,False
+17285,2111,2023-03-17,validation,1235,NE Walmart Supercenter,1,main_loop,1011009,2023-03-17 09:40:00,2023-03-17 09:43:14,3.2333333333333334,9,Friday,provisional: terminal-dependent support,False
+17308,2111,2023-03-17,validation,1234,NE Walmart Supercenter,0,main_loop,1011012,2023-03-17 10:07:00,2023-03-17 10:09:52,2.8666666666666667,10,Friday,provisional: terminal-dependent support,False
+17347,2111,2023-03-17,validation,1235,NE Walmart Supercenter,1,main_loop,1011013,2023-03-17 10:40:00,2023-03-17 10:44:02,4.033333333333333,10,Friday,provisional: terminal-dependent support,False
+17370,2111,2023-03-17,validation,1234,NE Walmart Supercenter,0,main_loop,1011016,2023-03-17 11:07:00,2023-03-17 11:07:26,0.43333333333333335,11,Friday,provisional: terminal-dependent support,False
+17409,2111,2023-03-17,validation,1235,NE Walmart Supercenter,1,main_loop,1011017,2023-03-17 11:40:00,2023-03-17 11:45:23,5.383333333333334,11,Friday,provisional: terminal-dependent support,False
+17432,2111,2023-03-17,validation,1234,NE Walmart Supercenter,0,main_loop,1011020,2023-03-17 12:07:00,2023-03-17 12:09:32,2.533333333333333,12,Friday,provisional: terminal-dependent support,False
+17471,2111,2023-03-17,validation,1235,NE Walmart Supercenter,1,main_loop,1011021,2023-03-17 12:40:00,2023-03-17 12:42:50,2.8333333333333335,12,Friday,provisional: terminal-dependent support,False
+17494,2111,2023-03-17,validation,1234,NE Walmart Supercenter,0,main_loop,1011024,2023-03-17 13:07:00,2023-03-17 13:07:45,0.75,13,Friday,provisional: terminal-dependent support,False
+17533,2111,2023-03-17,validation,1235,NE Walmart Supercenter,1,main_loop,1011025,2023-03-17 13:40:00,2023-03-17 13:42:55,2.9166666666666665,13,Friday,provisional: terminal-dependent support,False
+17556,2111,2023-03-17,validation,1234,NE Walmart Supercenter,0,main_loop,1011028,2023-03-17 14:07:00,2023-03-17 14:10:01,3.0166666666666666,14,Friday,provisional: terminal-dependent support,False
+17595,2111,2023-03-17,validation,1235,NE Walmart Supercenter,1,main_loop,1011029,2023-03-17 14:40:00,2023-03-17 14:40:30,0.5,14,Friday,provisional: terminal-dependent support,False
+17618,2111,2023-03-17,validation,1234,NE Walmart Supercenter,0,main_loop,1011032,2023-03-17 15:07:00,2023-03-17 15:09:55,2.9166666666666665,15,Friday,provisional: terminal-dependent support,False
+17657,2111,2023-03-17,validation,1235,NE Walmart Supercenter,1,main_loop,1011033,2023-03-17 15:40:00,2023-03-17 15:40:53,0.8833333333333333,15,Friday,provisional: terminal-dependent support,False
+17680,2111,2023-03-17,validation,1234,NE Walmart Supercenter,0,main_loop,1011036,2023-03-17 16:07:00,2023-03-17 16:08:06,1.1,16,Friday,provisional: terminal-dependent support,False
+17719,2111,2023-03-17,validation,1235,NE Walmart Supercenter,1,main_loop,1011037,2023-03-17 16:40:00,2023-03-17 16:41:11,1.1833333333333333,16,Friday,provisional: terminal-dependent support,False
+17742,2111,2023-03-17,validation,1234,NE Walmart Supercenter,0,main_loop,1011040,2023-03-17 17:07:00,2023-03-17 17:06:01,-0.9833333333333333,17,Friday,provisional: terminal-dependent support,False
+17781,2111,2023-03-17,validation,1235,NE Walmart Supercenter,1,main_loop,1011041,2023-03-17 17:40:00,2023-03-17 17:43:07,3.1166666666666667,17,Friday,provisional: terminal-dependent support,False
+17804,2111,2023-03-17,validation,1234,NE Walmart Supercenter,0,main_loop,1011042,2023-03-17 18:07:00,2023-03-17 18:08:08,1.1333333333333333,18,Friday,provisional: terminal-dependent support,False
+17836,2111,2023-03-17,validation,1235,NE Walmart Supercenter,1,main_loop,1011043,2023-03-17 18:40:00,2023-03-17 18:38:43,-1.2833333333333334,18,Friday,provisional: terminal-dependent support,False
+16538,710,2023-03-17,validation,1234,NE Walmart Supercenter,0,health_dept_branch,1011010,2023-03-17 09:37:00,2023-03-17 09:38:16,1.2666666666666666,9,Friday,provisional: unflagged non-terminal anchor support,False
+16547,710,2023-03-17,validation,107,Health Department,0,health_dept_branch,1011010,2023-03-17 09:45:00,2023-03-17 09:43:27,-1.55,9,Friday,provisional: unflagged non-terminal anchor support,False
+16569,710,2023-03-17,validation,107,Health Department,1,health_dept_branch,1011011,2023-03-17 10:05:00,2023-03-17 10:05:32,0.5333333333333333,10,Friday,provisional: unflagged non-terminal anchor support,False
+16577,710,2023-03-17,validation,1235,NE Walmart Supercenter,1,health_dept_branch,1011011,2023-03-17 10:10:00,2023-03-17 10:11:42,1.7,10,Friday,provisional: unflagged non-terminal anchor support,False
+16600,710,2023-03-17,validation,1234,NE Walmart Supercenter,0,health_dept_branch,1011014,2023-03-17 10:37:00,2023-03-17 10:39:55,2.9166666666666665,10,Friday,provisional: unflagged non-terminal anchor support,False
+16609,710,2023-03-17,validation,107,Health Department,0,health_dept_branch,1011014,2023-03-17 10:45:00,2023-03-17 10:44:58,-0.03333333333333333,10,Friday,provisional: unflagged non-terminal anchor support,False
+16631,710,2023-03-17,validation,107,Health Department,1,health_dept_branch,1011015,2023-03-17 11:05:00,2023-03-17 11:04:56,-0.06666666666666667,11,Friday,provisional: unflagged non-terminal anchor support,False
+16639,710,2023-03-17,validation,1235,NE Walmart Supercenter,1,health_dept_branch,1011015,2023-03-17 11:10:00,2023-03-17 11:10:33,0.55,11,Friday,provisional: unflagged non-terminal anchor support,False
+16662,710,2023-03-17,validation,1234,NE Walmart Supercenter,0,health_dept_branch,1011018,2023-03-17 11:37:00,2023-03-17 11:39:12,2.2,11,Friday,provisional: unflagged non-terminal anchor support,False
+16671,710,2023-03-17,validation,107,Health Department,0,health_dept_branch,1011018,2023-03-17 11:45:00,2023-03-17 11:45:17,0.2833333333333333,11,Friday,provisional: unflagged non-terminal anchor support,False
+16693,710,2023-03-17,validation,107,Health Department,1,health_dept_branch,1011019,2023-03-17 12:05:00,2023-03-17 12:07:13,2.216666666666667,12,Friday,provisional: unflagged non-terminal anchor support,False
+16701,710,2023-03-17,validation,1235,NE Walmart Supercenter,1,health_dept_branch,1011019,2023-03-17 12:10:00,2023-03-17 12:13:21,3.35,12,Friday,provisional: unflagged non-terminal anchor support,False
+16724,710,2023-03-17,validation,1234,NE Walmart Supercenter,0,health_dept_branch,1011022,2023-03-17 12:37:00,2023-03-17 12:40:50,3.8333333333333335,12,Friday,provisional: unflagged non-terminal anchor support,False
+16733,710,2023-03-17,validation,107,Health Department,0,health_dept_branch,1011022,2023-03-17 12:45:00,2023-03-17 12:46:04,1.0666666666666667,12,Friday,provisional: unflagged non-terminal anchor support,False
+16755,710,2023-03-17,validation,107,Health Department,1,health_dept_branch,1011023,2023-03-17 13:05:00,2023-03-17 13:05:43,0.7166666666666667,13,Friday,provisional: unflagged non-terminal anchor support,False
+16763,710,2023-03-17,validation,1235,NE Walmart Supercenter,1,health_dept_branch,1011023,2023-03-17 13:10:00,2023-03-17 13:10:32,0.5333333333333333,13,Friday,provisional: unflagged non-terminal anchor support,False
+16786,710,2023-03-17,validation,1234,NE Walmart Supercenter,0,health_dept_branch,1011026,2023-03-17 13:37:00,2023-03-17 13:37:26,0.43333333333333335,13,Friday,provisional: unflagged non-terminal anchor support,False
+16795,710,2023-03-17,validation,107,Health Department,0,health_dept_branch,1011026,2023-03-17 13:45:00,2023-03-17 13:43:29,-1.5166666666666666,13,Friday,provisional: unflagged non-terminal anchor support,False
+16817,710,2023-03-17,validation,107,Health Department,1,health_dept_branch,1011027,2023-03-17 14:05:00,2023-03-17 14:05:25,0.4166666666666667,14,Friday,provisional: unflagged non-terminal anchor support,False
+16825,710,2023-03-17,validation,1235,NE Walmart Supercenter,1,health_dept_branch,1011027,2023-03-17 14:10:00,2023-03-17 14:10:31,0.5166666666666667,14,Friday,provisional: unflagged non-terminal anchor support,False
+16848,710,2023-03-17,validation,1234,NE Walmart Supercenter,0,health_dept_branch,1011030,2023-03-17 14:37:00,2023-03-17 14:38:24,1.4,14,Friday,provisional: unflagged non-terminal anchor support,False
+16857,710,2023-03-17,validation,107,Health Department,0,health_dept_branch,1011030,2023-03-17 14:45:00,2023-03-17 14:44:40,-0.3333333333333333,14,Friday,provisional: unflagged non-terminal anchor support,False
+16879,710,2023-03-17,validation,107,Health Department,1,health_dept_branch,1011031,2023-03-17 15:05:00,2023-03-17 15:05:02,0.03333333333333333,15,Friday,provisional: unflagged non-terminal anchor support,False
+16887,710,2023-03-17,validation,1235,NE Walmart Supercenter,1,health_dept_branch,1011031,2023-03-17 15:10:00,2023-03-17 15:10:32,0.5333333333333333,15,Friday,provisional: unflagged non-terminal anchor support,False
+16910,710,2023-03-17,validation,1234,NE Walmart Supercenter,0,health_dept_branch,1011034,2023-03-17 15:37:00,2023-03-17 15:38:57,1.95,15,Friday,provisional: unflagged non-terminal anchor support,False
+16919,710,2023-03-17,validation,107,Health Department,0,health_dept_branch,1011034,2023-03-17 15:45:00,2023-03-17 15:44:42,-0.3,15,Friday,provisional: unflagged non-terminal anchor support,False
+16941,710,2023-03-17,validation,107,Health Department,1,health_dept_branch,1011035,2023-03-17 16:05:00,2023-03-17 16:07:51,2.85,16,Friday,provisional: unflagged non-terminal anchor support,False
+16949,710,2023-03-17,validation,1235,NE Walmart Supercenter,1,health_dept_branch,1011035,2023-03-17 16:10:00,2023-03-17 16:12:31,2.5166666666666666,16,Friday,provisional: unflagged non-terminal anchor support,False
+16972,710,2023-03-17,validation,1234,NE Walmart Supercenter,0,health_dept_branch,1011038,2023-03-17 16:37:00,2023-03-17 16:38:31,1.5166666666666666,16,Friday,provisional: unflagged non-terminal anchor support,False
+16981,710,2023-03-17,validation,107,Health Department,0,health_dept_branch,1011038,2023-03-17 16:45:00,2023-03-17 16:44:24,-0.6,16,Friday,provisional: unflagged non-terminal anchor support,False
+17003,710,2023-03-17,validation,107,Health Department,1,health_dept_branch,1011039,2023-03-17 17:05:00,2023-03-17 17:06:08,1.1333333333333333,17,Friday,provisional: unflagged non-terminal anchor support,False
+17011,710,2023-03-17,validation,1235,NE Walmart Supercenter,1,health_dept_branch,1011039,2023-03-17 17:10:00,2023-03-17 17:11:23,1.3833333333333333,17,Friday,provisional: unflagged non-terminal anchor support,False
